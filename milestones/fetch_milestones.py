@@ -92,12 +92,6 @@ def launchDump(pro_name,csvwriter):
 
     
 pf = open("../projects.info","r")
-b = open('proj0.csv','wb')
-b.truncate()
-a = csv.writer(b)
-launchDump(pf.readline().strip('\n'),a)
-print("===============END OF THE PROJECT0========================")
-b.close()
 
 b = open('project1.csv','wb')
 b.truncate()
@@ -119,7 +113,6 @@ a = csv.writer(b)
 launchDump(pf.readline().strip('\n'),a)
 print("===============END OF THE PROJECT3========================")
 b.close()
-
 
 
 pf.close()
