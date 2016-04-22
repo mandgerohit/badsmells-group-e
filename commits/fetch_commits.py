@@ -33,20 +33,23 @@ def dump1(u,commits,csvwriter):
   request = urllib2.Request(u, headers={"Authorization" : "token "+token})
   v = urllib2.urlopen(request).read()
   w = json.loads(v)
+  #print (w)
   if not w: return False
   for event in w:
-    user = event['author']['login']
+    if event is None: continue
+    user = event['commit']['committer']['name']
     print(user)
     commit_at = event['commit']['committer']['date']
     commit_at = secs(commit_at)
+    message = event['commit']['message']
     print(commit_at)
-    csvwriter.writerows([[user,commit_at]])
+    csvwriter.writerows([[user,commit_at,message.encode("utf-8")]])
   return True
   
 
 def dump(u, commits,csvwriter):
   try:
-    return dump1(u, commits,csvwriter)
+    return dump1(u, commits, csvwriter)
   except Exception as e: 
     print(e)
     print("Contact TA")
@@ -56,7 +59,7 @@ def launchDump(pro_name,csvwriter):
   page = 1
   commits = dict()
   while(True):
-    doNext = dump('https://api.github.com/repos/' + pro_name + '/commits?page=' + str(page), commits,csvwriter)
+    doNext = dump('https://api.github.com/repos/' + pro_name + '/commits?page=' + str(page), commits, csvwriter)
     #print("page "+ str(page))
     page += 1
     if not doNext : break

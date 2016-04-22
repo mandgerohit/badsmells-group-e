@@ -13,7 +13,7 @@ Here is how you do it.
 
 1) In terminal run the following command
 
-curl -i -u <your_username> -d '{"scopes": ["repo", "user"], "note": "OpenSciences"}' https://api.github.com/authorizations
+curl -i -u mandge.rohit@gmail.com -d '{"scopes": ["repo", "user"], "note": "OpenSciences"}' https://api.github.com/authorizations
 
 2) Enter ur password on prompt. You will get a JSON response. 
 In that response there will be a key called "token" . 
@@ -29,7 +29,7 @@ from __future__ import print_function
 import urllib2
 import json
 import re,datetime
-import sys
+import sys, csv
  
 class L():
   "Anonymous container"
@@ -52,8 +52,10 @@ def secs(d0):
   delta = d - epoch
   return delta.total_seconds()
  
-def dump1(u,issues):
-  token = "TOKEN" # <===
+def dump1(u,issues,csvwriter):
+  f = open("token.info","r")
+  token = f.readline().strip('\n')
+  f.close()
   request = urllib2.Request(u, headers={"Authorization" : "token "+token})
   v = urllib2.urlopen(request).read()
   w = json.loads(v)
@@ -76,21 +78,22 @@ def dump1(u,issues):
     if not all_events: all_events = []
     all_events.append(eventObj)
     issues[issue_id] = all_events
+    csvwriter.writerows([[issues]])
   return True
 
-def dump(u,issues):
+def dump(u,issues,csvwriter):
   try:
-    return dump1(u, issues)
+    return dump1(u, issues,csvwriter)
   except Exception as e: 
     print(e)
     print("Contact TA")
     return False
 
-def launchDump():
+def launchDump(csvwriter):
   page = 1
   issues = dict()
   while(True):
-    doNext = dump('https://api.github.com/repos/smartSE/constraintAnalysis/issues/events?page=' + str(page), issues)
+    doNext = dump('https://api.github.com/repos/DharmendraVaghela/csc510-grp-e/commits?page=' + str(page), issues, csvwriter)
     #print("page "+ str(page))
     page += 1
     if not doNext : break
@@ -98,8 +101,13 @@ def launchDump():
     print("ISSUE " + str(issue))
     for event in events: print(event.show())
     print('')
-    
-launchDump()
+
+b = open('project1.csv','wb')
+b.truncate()
+a = csv.writer(b)
+launchDump(a)
+print("===============END OF THE PROJECT1========================")
+b.close()
 
 
   
