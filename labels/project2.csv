@@ -1,0 +1,16 @@
+bug,https://api.github.com/repos/nikign/Git-Helper/labels/bug,fc2929
+duplicate,https://api.github.com/repos/nikign/Git-Helper/labels/duplicate,cccccc
+enhancement,https://api.github.com/repos/nikign/Git-Helper/labels/enhancement,84b6eb
+help wanted,https://api.github.com/repos/nikign/Git-Helper/labels/help%20wanted,e11d21
+invalid,https://api.github.com/repos/nikign/Git-Helper/labels/invalid,e6e6e6
+question,https://api.github.com/repos/nikign/Git-Helper/labels/question,cc317c
+wontfix,https://api.github.com/repos/nikign/Git-Helper/labels/wontfix,ffffff
+feature,https://api.github.com/repos/nikign/Git-Helper/labels/feature,bfe5bf
+design,https://api.github.com/repos/nikign/Git-Helper/labels/design,eb6420
+in progress,https://api.github.com/repos/nikign/Git-Helper/labels/in%20progress,fbca04
+in testing,https://api.github.com/repos/nikign/Git-Helper/labels/in%20testing,bfe5bf
+optimize,https://api.github.com/repos/nikign/Git-Helper/labels/optimize,0052cc
+Solution One,https://api.github.com/repos/nikign/Git-Helper/labels/Solution%20One,bfe5bf
+Solution Two,https://api.github.com/repos/nikign/Git-Helper/labels/Solution%20Two,d4c5f9
+Solution Three,https://api.github.com/repos/nikign/Git-Helper/labels/Solution%20Three,bfdadc
+Evalutation,https://api.github.com/repos/nikign/Git-Helper/labels/Evalutation,fbca04
