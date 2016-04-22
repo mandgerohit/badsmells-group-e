@@ -100,23 +100,23 @@ def launchDump(pro_name,csvwriter):
        if not doNext : break
 
     
-pf = open("../proname.info","r")
+pf = open("../projects.info","r")
 
-b = open('proj1.csv','wb')
+b = open('project1.csv','wb')
 b.truncate()
 a = csv.writer(b)
 launchDump(pf.readline().strip('\n'),a)
 print("===============END OF THE PROJECT1========================")
 b.close()
 
-b = open('proj2.csv','wb')
+b = open('project2.csv','wb')
 b.truncate()
 a = csv.writer(b)
 launchDump(pf.readline().strip('\n'),a)
 print("===============END OF THE PROJECT2========================")
 b.close()
 
-b = open('proj3.csv','wb')
+b = open('project3.csv','wb')
 b.truncate()
 a = csv.writer(b)
 launchDump(pf.readline().strip('\n'),a)
