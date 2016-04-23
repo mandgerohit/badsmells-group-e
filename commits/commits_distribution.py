@@ -25,6 +25,27 @@ def secs(d0):
   epoch = datetime.datetime.utcfromtimestamp(0)
   delta = d - epoch
   return delta.total_seconds()
+def mean(data):
+    """Return the sample arithmetic mean of data."""
+    n = len(data)
+    if n < 1:
+        raise ValueError('mean requires at least one data point')
+    return sum(data)/n # in Python 2 use sum(data)/float(n)
+
+def _ss(data):
+    """Return sum of square deviations of sequence data."""
+    c = mean(data)
+    ss = sum((x-c)**2 for x in data)
+    return ss
+
+def std_dev(data):
+    """Calculates the population standard deviation."""
+    n = len(data)
+    if n < 2:
+        raise ValueError('variance requires at least two data points')
+    ss = _ss(data)
+    pvar = ss/n # the population variance
+    return pvar**0.5
 
 def plot_graph(week,file_name):
   plt.bar(range(len(week)),week,width=0.50)
@@ -61,7 +82,7 @@ def get_commit_distribution(file_name):
      week.append(c)
   print(week)
   plot_graph(week,file_name)
-  #plt.show()
+  print(std_dev(week)/len(t))
   csvfile.close()
 
 get_commit_distribution('project1.csv')
