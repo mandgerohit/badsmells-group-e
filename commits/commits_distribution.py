@@ -27,10 +27,11 @@ def secs(d0):
   return delta.total_seconds()
 
 def plot_graph(week,file_name):
-  plt.bar(range(len(week)),week)
+  plt.bar(range(len(week)),week,width=0.50)
   plt.ylabel('No. of Commits')
   plt.xlabel('Weeks')
   plt.savefig(os.path.splitext(file_name)[0]+'.png')
+  plt.clf()
 
 def get_commit_distribution(file_name):
   csvfile = file(file_name,'rb')
