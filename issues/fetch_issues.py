@@ -13,7 +13,7 @@ Here is how you do it.
 
 1) In terminal run the following command
 
-curl -i -u <your_username> -d '{"scopes": ["repo", "user"], "note": "OpenSciences"}' https://api.github.com/authorizations
+curl -i -u mandge.rohit@gmail.com -d '{"scopes": ["repo", "user"], "note": "OpenSciences"}' https://api.github.com/authorizations
 
 2) Enter ur password on prompt. You will get a JSON response. 
 In that response there will be a key called "token" . 
@@ -53,8 +53,6 @@ def secs(d0):
   delta = d - epoch
   return delta.total_seconds()
  
-
-
 def dump1(u, csvwriter):
   f = open("../token.info","r")
   token = f.readline().strip('\n')
@@ -64,6 +62,7 @@ def dump1(u, csvwriter):
   w = json.loads(v)
   if not w: return False
   for event in w:
+    #print(event)
     number    = event['number']
     state     = event['state']
     creator   = event['user']['login']
@@ -72,7 +71,10 @@ def dump1(u, csvwriter):
     for la in event['labels']:
        labels.append(la['name'].encode("ascii"))
     if event['milestone'] :
-         milestonedue = secs(event['milestone']['due_on'])
+         if event['milestone']['due_on'] is not None:
+            milestonedue = secs(event['milestone']['due_on'])
+         else:
+            milestonedue = -1
     else:
          milestonedue = -1
     last_update=secs(event['updated_at'])
@@ -94,7 +96,7 @@ def dump(u,csvwriter):
 def launchDump(pro_name,csvwriter):
    page = 1
    while(True):
-       print(page)
+       print("Page: "+str(page))
        doNext = dump('https://api.github.com/repos/' + pro_name + '/issues?state=all&page=' + str(page), csvwriter)
        page += 1
        if not doNext : break
