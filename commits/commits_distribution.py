@@ -48,7 +48,7 @@ def std_dev(data):
     return pvar**0.5
 
 def plot_graph(week,file_name):
-  plt.bar(range(len(week)),week,width=0.50)
+  plt.bar(range(len(week)),week,width=0.50, align='center')
   plt.ylabel('No. of Commits')
   plt.xlabel('Weeks')
   plt.savefig(os.path.splitext(file_name)[0]+'.png')
