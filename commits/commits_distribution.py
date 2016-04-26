@@ -32,7 +32,7 @@ def mean(data):
         raise ValueError('mean requires at least one data point')
     return sum(data)/n # in Python 2 use sum(data)/float(n)
 
-def _ss(data):
+def sum_of_squares(data):
     """Return sum of square deviations of sequence data."""
     c = mean(data)
     ss = sum((x-c)**2 for x in data)
@@ -43,7 +43,7 @@ def std_dev(data):
     n = len(data)
     if n < 2:
         raise ValueError('variance requires at least two data points')
-    ss = _ss(data)
+    ss = sum_of_squares(data)
     pvar = ss/n # the population variance
     return pvar**0.5
 
@@ -59,8 +59,8 @@ def get_commit_distribution(file_name):
   reader = csv.reader(csvfile)
   t = []
   for line in reader:
-     [a,b,c] = line
-     t.append(int(float(b)))
+     [user,email,commit_at,message] = line
+     t.append(int(float(commit_at)))
   t.sort()
   week = []
   total_week = (t[-1]-t[0])/(7*24*3600)
@@ -68,18 +68,18 @@ def get_commit_distribution(file_name):
   for i in range(total_week):
      end.append(t[0]+(i+1)*7*24*3600)
 
-  c = 0
+  w = 0
   for x in t:
      if  x < end[0]:
-        c += 1
-  week.append(c)
+        w += 1
+  week.append(w)
 
   for alpha in range(1,total_week):
-     c = 0
+     w = 0
      for x in t:
         if x >= end[alpha-1] and x < end[alpha]:
-            c+= 1
-     week.append(c)
+            w+= 1
+     week.append(w)
   print(week)
   plot_graph(week,file_name)
   print(std_dev(week)/len(t))

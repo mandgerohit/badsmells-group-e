@@ -1,273 +1,282 @@
-Arjun Madan,1461178015.0,Update group g dmp
-Arjun Madan,1461177906.0,Update data
-Arjun Madan,1460922059.0,"Add data, csv, scripts, etc."
-Brian Clee,1460574285.0,names r hard
-Brian Clee,1460574155.0,"initial may commit
+effat,effat34@gmail.com,1461599567.0,Added files via upload
+effat,effat34@gmail.com,1461599524.0,Create a.gitkeep
+effat,effat34@gmail.com,1461598761.0,Added files via upload
+Arjun Madan,arjunmadan1992@gmail.com,1461598709.0,Merge branch 'master' of https://github.com/cleebp/csc-510-group-g
+Arjun Madan,arjunmadan1992@gmail.com,1461598699.0,Update csvs
+effat,effat34@gmail.com,1461598687.0,Create a.gitkeep
+effat,effat34@gmail.com,1461598607.0,Added files via upload
+effat,effat34@gmail.com,1461598530.0,Create a.gitkeep
+Arjun Madan,arjunmadan1992@gmail.com,1461557445.0,"Update dbs to include additions, deletions"
+Arjun Madan,arjunmadan1992@gmail.com,1461178015.0,Update group g dmp
+Arjun Madan,arjunmadan1992@gmail.com,1461177906.0,Update data
+Arjun Madan,arjunmadan1992@gmail.com,1460922059.0,"Add data, csv, scripts, etc."
+Brian Clee,bpclee2011@gmail.com,1460574285.0,names r hard
+Brian Clee,bpclee2011@gmail.com,1460574155.0,"initial may commit
 
 architecture! organization! yay!"
-Brian Clee,1459975358.0,"updated presentation
+Brian Clee,bpclee2011@gmail.com,1459975358.0,"updated presentation
 
 most recent version as of 4:42 on 4/6"
-Brian Clee,1459974163.0,"uploaded 'final' report files from sharelatex
+Brian Clee,bpclee2011@gmail.com,1459974163.0,"uploaded 'final' report files from sharelatex
 
 hah “final”"
-Brian Clee,1459871640.0,"edited tasks.md
+Brian Clee,bpclee2011@gmail.com,1459871640.0,"edited tasks.md
 
 There was some placeholder text still hanging around so I cut it loose…"
-Brian Clee,1459788419.0,"fixing some links
+Brian Clee,bpclee2011@gmail.com,1459788419.0,"fixing some links
 
 herp derp trees blobs"
-Brian Clee,1459788058.0,"apr7 repo organization and readme creation
+Brian Clee,bpclee2011@gmail.com,1459788058.0,"apr7 repo organization and readme creation
 
 added a ton of necessary readmes
 
 tl;dr: stuff is (mostly) documented now"
-effat,1459186206.0,Update my-panel1-view.coffee
-Arjun Madan,1459183681.0,Added some telemetry data to apr1/Data
-Arjun Madan,1459092410.0,Delete unnecessary file
-Brian Clee,1458845991.0,"added tasks 9 and 10
+effat,effat34@gmail.com,1459186206.0,Update my-panel1-view.coffee
+Arjun Madan,arjunmadan1992@gmail.com,1459183681.0,Added some telemetry data to apr1/Data
+Arjun Madan,trueblue2704@users.noreply.github.com,1459092410.0,Delete unnecessary file
+Brian Clee,bpclee2011@gmail.com,1458845991.0,"added tasks 9 and 10
 
 tasks complete"
-Brian Clee,1458844890.0,added tasks 7 and 8
-Arjun Madan,1458788311.0,"Update README.md
+Brian Clee,bpclee2011@gmail.com,1458844890.0,added tasks 7 and 8
+Arjun Madan,trueblue2704@users.noreply.github.com,1458788311.0,"Update README.md
 
 Add information about installing dependencies for telem-windows.py"
-Arjun Madan,1458788141.0,"Delete clipit.txt
+Arjun Madan,trueblue2704@users.noreply.github.com,1458788141.0,"Delete clipit.txt
 
 Remove unnecessary log file."
-Arjun Madan,1458787986.0,"Merge pull request #68 from cleebp/telemetry
+Arjun Madan,trueblue2704@users.noreply.github.com,1458787986.0,"Merge pull request #68 from cleebp/telemetry
 
 Telemetry"
-Arjun Madan,1458787833.0,Merge branch 'telemetry' of https://github.com/cleebp/csc-510-group-g into telemetry
-Arjun Madan,1458787786.0,Fixed windows clipboard
-Brian Clee,1458760356.0,added task 5 and 6
-Ran Tan,1458759913.0,fix the bug of history
-Brian Clee,1458759011.0,"task 4 added
+Arjun Madan,arjunmadan1992@gmail.com,1458787833.0,Merge branch 'telemetry' of https://github.com/cleebp/csc-510-group-g into telemetry
+Arjun Madan,arjunmadan1992@gmail.com,1458787786.0,Fixed windows clipboard
+Brian Clee,bpclee2011@gmail.com,1458760356.0,added task 5 and 6
+Ran Tan,wonderofaboy@gmail.com,1458759913.0,fix the bug of history
+Brian Clee,bpclee2011@gmail.com,1458759011.0,"task 4 added
 
 now just have to make tasks for lib"
-Brian Clee,1458746355.0,task 2 and 3 added
-Brian Clee,1458744758.0,"first task completed
+Brian Clee,bpclee2011@gmail.com,1458746355.0,task 2 and 3 added
+Brian Clee,bpclee2011@gmail.com,1458744758.0,"first task completed
 
 test commit to see how this looks on master"
-Brian Clee,1458694781.0,"apr1 initial commit
+Brian Clee,bpclee2011@gmail.com,1458694781.0,"apr1 initial commit
 
 establishing april directories and setting up initial experiment
 directory"
-Arjun Madan,1457920819.0,Update README.md
-Arjun Madan,1457920414.0,Windows telemetry added
-Arjun Madan,1457919219.0,Update README.md
-Arjun Madan,1457919129.0,Update telemetry to work with custom file names.
-Arjun Madan,1457027175.0,fix merge conflicts
-Arjun Madan,1457027092.0,Update README.md
-Arjun Madan,1457026958.0,Update readme for telemetry
-Brian Clee,1456951475.0,"readme etc
+Arjun Madan,trueblue2704@users.noreply.github.com,1457920819.0,Update README.md
+Arjun Madan,arjunmadan1992@gmail.com,1457920414.0,Windows telemetry added
+Arjun Madan,trueblue2704@users.noreply.github.com,1457919219.0,Update README.md
+Arjun Madan,arjunmadan1992@gmail.com,1457919129.0,Update telemetry to work with custom file names.
+Arjun Madan,arjunmadan1992@gmail.com,1457027175.0,fix merge conflicts
+Arjun Madan,trueblue2704@users.noreply.github.com,1457027092.0,Update README.md
+Arjun Madan,arjunmadan1992@gmail.com,1457026958.0,Update readme for telemetry
+Brian Clee,bpclee2011@gmail.com,1456951475.0,"readme etc
 
 github has issues with existance"
-Arjun Madan,1456947910.0,Fix indentation
-Ran Tan,1456947125.0,Update README.md
-Brian Clee,1456946530.0,"updated readme's and got rid of teller package
+Arjun Madan,arjunmadan1992@gmail.com,1456947910.0,Fix indentation
+Ran Tan,wonderofaboy@gmail.com,1456947125.0,Update README.md
+Brian Clee,bpclee2011@gmail.com,1456946530.0,"updated readme's and got rid of teller package
 
 housekeeping"
-Arjun Madan,1456946190.0,"Merge pull request #50 from cleebp/telemetry
+Arjun Madan,trueblue2704@users.noreply.github.com,1456946190.0,"Merge pull request #50 from cleebp/telemetry
 
 Adding telemtry"
-Brian Clee,1456945976.0,"renamed a thingy
+Brian Clee,bpclee2011@gmail.com,1456945976.0,"renamed a thingy
 
 thingies are descriptive"
-Brian Clee,1456945837.0,"commented out data persistence bug
+Brian Clee,bpclee2011@gmail.com,1456945837.0,"commented out data persistence bug
 
 wooooooo"
-effat,1456945599.0,Update README.md
-effat,1456945496.0,Added files via upload
-Brian Clee,1456945216.0,"formatted readme's
+effat,effat34@gmail.com,1456945599.0,Update README.md
+effat,effat34@gmail.com,1456945496.0,Added files via upload
+Brian Clee,bpclee2011@gmail.com,1456945216.0,"formatted readme's
 
 went through and formatted the readme’s of the packages so they were
 all using the same basic style."
-effat,1456931277.0,Update README.md
-effat,1456931249.0,Update README.md
-Arjun Madan,1456890659.0,Fix telemetry bug where clicks weren't getting logged with clipit-panel
-Arjun Madan,1456867020.0,Merge branch 'master' of https://github.com/cleebp/csc-510-group-g into telemetry
-Brian Clee,1456854670.0,"fixed display bug after selecting a panel item
+effat,effat34@gmail.com,1456931277.0,Update README.md
+effat,effat34@gmail.com,1456931249.0,Update README.md
+Arjun Madan,arjunmadan1992@gmail.com,1456890659.0,Fix telemetry bug where clicks weren't getting logged with clipit-panel
+Arjun Madan,arjunmadan1992@gmail.com,1456867020.0,Merge branch 'master' of https://github.com/cleebp/csc-510-group-g into telemetry
+Brian Clee,bpclee2011@gmail.com,1456854670.0,"fixed display bug after selecting a panel item
 
 tiny hack to force a redisplay whenever an item is selected"
-Brian Clee,1456853599.0,"panel updates display after copy, paste cmd also pastes most recent item
+Brian Clee,bpclee2011@gmail.com,1456853599.0,"panel updates display after copy, paste cmd also pastes most recent item
 
 next step is to fix the behavior after clicking on an item having to
 paste again in order to bring back the panel."
-Brian Clee,1456851375.0,"added mac integration
+Brian Clee,bpclee2011@gmail.com,1456851375.0,"added mac integration
 
 technically linux too"
-effat,1456808351.0,Update README.md
-effat,1456806595.0,Update README.md
-effat,1456806566.0,Update README.md
-effat,1456804500.0,Update README.md
-effat,1456804389.0,Added files via upload
-effat,1456804291.0,Update README.md
-Arjun Madan,1456803817.0,Telemetry added to clipit-cmd
-Arjun Madan,1456803435.0,Integrate telemetry with clipit-order
-Ran Tan,1456799149.0,Update README.md
-Ran Tan,1456799016.0,reorganize the directory
-Ran Tan,1456798796.0,update README file for contextual ordering
-Ran Tan,1456798636.0,Update README.md
-Brian Clee,1456692411.0,"updated mar1 deliverable readme
+effat,effat34@gmail.com,1456808351.0,Update README.md
+effat,effat34@gmail.com,1456806595.0,Update README.md
+effat,effat34@gmail.com,1456806566.0,Update README.md
+effat,effat34@gmail.com,1456804500.0,Update README.md
+effat,effat34@gmail.com,1456804389.0,Added files via upload
+effat,effat34@gmail.com,1456804291.0,Update README.md
+Arjun Madan,arjunmadan1992@gmail.com,1456803817.0,Telemetry added to clipit-cmd
+Arjun Madan,arjunmadan1992@gmail.com,1456803435.0,Integrate telemetry with clipit-order
+Ran Tan,wonderofaboy@gmail.com,1456799149.0,Update README.md
+Ran Tan,ran tan,1456799016.0,reorganize the directory
+Ran Tan,ran tan,1456798796.0,update README file for contextual ordering
+Ran Tan,wonderofaboy@gmail.com,1456798636.0,Update README.md
+Brian Clee,bpclee2011@gmail.com,1456692411.0,"updated mar1 deliverable readme
 
 added an evaluation plan and edited the structure section"
-Ran Tan,1456691748.0,Update README.md
-Arjun Madan,1456691062.0,Added log file URL
-Arjun Madan,1456690990.0,"Merge pull request #42 from cleebp/telemetry
+Ran Tan,wonderofaboy@gmail.com,1456691748.0,Update README.md
+Arjun Madan,trueblue2704@users.noreply.github.com,1456691062.0,Added log file URL
+Arjun Madan,trueblue2704@users.noreply.github.com,1456690990.0,"Merge pull request #42 from cleebp/telemetry
 
 Added log sample"
-Arjun Madan,1456690954.0,Added log sample
-Brian Clee,1456690777.0,"Merge pull request #41 from cleebp/effat
+Arjun Madan,arjunmadan1992@gmail.com,1456690954.0,Added log sample
+Brian Clee,bpclee2011@gmail.com,1456690777.0,"Merge pull request #41 from cleebp/effat
 
 Effat's merge"
-Brian Clee,1456690627.0,"Merge branch 'master' into effat
+Brian Clee,bpclee2011@gmail.com,1456690627.0,"Merge branch 'master' into effat
 
 please work"
-Brian Clee,1456690371.0,minor main readmes
-Arjun Madan,1456690109.0,Update README.md
-Brian Clee,1456689750.0,"more directory fixes
+Brian Clee,bpclee2011@gmail.com,1456690371.0,minor main readmes
+Arjun Madan,trueblue2704@users.noreply.github.com,1456690109.0,Update README.md
+Brian Clee,bpclee2011@gmail.com,1456689750.0,"more directory fixes
 
 dear god please work"
-Arjun Madan,1456689018.0,Remove duplicate files
-Arjun Madan,1456688963.0,Fix directory structure
-effat,1456688868.0,Delete Activator.java
-effat,1456688852.0,Delete README.md
-effat,1456688814.0,Delete my-new-panel.rar
-effat,1456688800.0,Delete my-package.rar
-effat,1456688782.0,Delete org.plugin.helloworld.rar
-effat,1456688742.0,Delete org.plugin.helloworld_master.rar
-Arjun Madan,1456688270.0,Merge branch 'reachspirit'
-Arjun Madan,1456688240.0,Fix merge conflicts
-effat,1456688028.0,Panel feature
-Ran Tan,1456680398.0,Finished integrating all sorting functions
-Ran Tan,1456637216.0,"framework for trigering sorting functions added, unnecessary documents removed"
-Ran Tan,1456611246.0,Data persistence added
-Ran Tan,1456454578.0,last update before data persistency and interface
-Brian Clee,1456418568.0,"fixed some spelling
+Arjun Madan,arjunmadan1992@gmail.com,1456689018.0,Remove duplicate files
+Arjun Madan,arjunmadan1992@gmail.com,1456688963.0,Fix directory structure
+effat,effat34@gmail.com,1456688868.0,Delete Activator.java
+effat,effat34@gmail.com,1456688852.0,Delete README.md
+effat,effat34@gmail.com,1456688814.0,Delete my-new-panel.rar
+effat,effat34@gmail.com,1456688800.0,Delete my-package.rar
+effat,effat34@gmail.com,1456688782.0,Delete org.plugin.helloworld.rar
+effat,effat34@gmail.com,1456688742.0,Delete org.plugin.helloworld_master.rar
+Arjun Madan,arjunmadan1992@gmail.com,1456688270.0,Merge branch 'reachspirit'
+Arjun Madan,arjunmadan1992@gmail.com,1456688240.0,Fix merge conflicts
+effat,effat34@gmail.com,1456688028.0,Panel feature
+Ran Tan,ran tan,1456680398.0,Finished integrating all sorting functions
+Ran Tan,ran tan,1456637216.0,"framework for trigering sorting functions added, unnecessary documents removed"
+Ran Tan,ran tan,1456611246.0,Data persistence added
+Ran Tan,ran tan,1456454578.0,last update before data persistency and interface
+Brian Clee,bpclee2011@gmail.com,1456418568.0,"fixed some spelling
 
 grammar is hard"
-Brian Clee,1456418405.0,"updated readme's
+Brian Clee,bpclee2011@gmail.com,1456418405.0,"updated readme's
 
 added a readme for mar1 deliverable"
-Arjun Madan,1456345580.0,Remove DS_Store
-Ran Tan,1456345534.0,Getting the source of copied items
-Arjun Madan,1456345519.0,Fix gitignore
-Arjun Madan,1456345333.0,Hopefully fixes unnecessary folders being present
-Arjun Madan,1456345278.0,Remove unused folder
-Arjun Madan,1456345103.0,"Merge pull request #34 from cleebp/telemetry
+Arjun Madan,arjunmadan1992@gmail.com,1456345580.0,Remove DS_Store
+Ran Tan,ran tan,1456345534.0,Getting the source of copied items
+Arjun Madan,arjunmadan1992@gmail.com,1456345519.0,Fix gitignore
+Arjun Madan,arjunmadan1992@gmail.com,1456345333.0,Hopefully fixes unnecessary folders being present
+Arjun Madan,arjunmadan1992@gmail.com,1456345278.0,Remove unused folder
+Arjun Madan,trueblue2704@users.noreply.github.com,1456345103.0,"Merge pull request #34 from cleebp/telemetry
 
 Adding telemetry."
-Brian Clee,1456344781.0,"fixed path
+Brian Clee,bpclee2011@gmail.com,1456344781.0,"fixed path
 
 of course this would happen"
-Brian Clee,1456344515.0,"Merge pull request #31 from cleebp/cleebp
+Brian Clee,bpclee2011@gmail.com,1456344515.0,"Merge pull request #31 from cleebp/cleebp
 
 Cleebp"
-Brian Clee,1456344144.0,"updated readme and package files
+Brian Clee,bpclee2011@gmail.com,1456344144.0,"updated readme and package files
 
 housekeeping before the merge"
-Brian Clee,1456342944.0,"reorg
+Brian Clee,bpclee2011@gmail.com,1456342944.0,"reorg
 
 moving files around and getting rid of the temporary directories of the
 base projects"
-Ran Tan,1456294467.0,Clipboard now counting frequency
-Arjun Madan,1456289519.0,Finished paste logging. Output formats should be the same now. Need to discuss where we're going to be saving the logs.
-Brian Clee,1456255244.0,worked on the demo gif
-Arjun Madan,1456201780.0,"Added basic paste detection. Todo: Proper format, store date"
-Arjun Madan,1456201444.0,"Added basic paste detection. Todo: Proper format, store date"
-Ran Tan,1456200765.0,Modified the source code to work in my newly created plugin
-Brian Clee,1456166805.0,"fixed link
+Ran Tan,ran tan,1456294467.0,Clipboard now counting frequency
+Arjun Madan,arjunmadan1992@gmail.com,1456289519.0,Finished paste logging. Output formats should be the same now. Need to discuss where we're going to be saving the logs.
+Brian Clee,bpclee2011@gmail.com,1456255244.0,worked on the demo gif
+Arjun Madan,arjunmadan1992@gmail.com,1456201780.0,"Added basic paste detection. Todo: Proper format, store date"
+Arjun Madan,arjunmadan1992@gmail.com,1456201444.0,"Added basic paste detection. Todo: Proper format, store date"
+Ran Tan,ran tan,1456200765.0,Modified the source code to work in my newly created plugin
+Brian Clee,bpclee2011@gmail.com,1456166805.0,"fixed link
 
 hopefully"
-Brian Clee,1456166754.0,"demo .gif added
+Brian Clee,bpclee2011@gmail.com,1456166754.0,"demo .gif added
 
 this will hopefully work as intended, will probably update the .gif
 later with more context but this is mainly meant to see if it will work
 at all."
-Brian Clee,1456165697.0,"copy now resets index, added readme
+Brian Clee,bpclee2011@gmail.com,1456165697.0,"copy now resets index, added readme
 
 ^"
-Brian Clee,1456163102.0,"all commands are working!
+Brian Clee,bpclee2011@gmail.com,1456163102.0,"all commands are working!
 
 had to rebind indexNext from ‘shift-cmd-l’ to ‘shift-cmd-k’ because of
 a keybinding conflict"
-Brian Clee,1456161417.0,"debugging, 75% working
+Brian Clee,bpclee2011@gmail.com,1456161417.0,"debugging, 75% working
 
 added console logs, everything is working except  indexNext because
 that apparently is using the same command (cmd-shift-l) as another
 already existing command"
-Brian Clee,1456156283.0,"first stable build
+Brian Clee,bpclee2011@gmail.com,1456156283.0,"first stable build
 
 still debugging and clearing up functionality, but at least everything
 runs now and sort of “works”"
-Arjun Madan,1456116364.0,"Remove log file, mac hidden files"
-Arjun Madan,1456116333.0,Minor fix to applescript
-Arjun Madan,1456114884.0,Remove clipboard-history
-Arjun Madan,1456114712.0,Logging when something is copied onto the system clipboard
-Ran Tan,1456114017.0,Fixed some bugs in commands
-Ran Tan,1456088443.0,A working word counter
-Brian Clee,1455652655.0,"updated menus and styles
+Arjun Madan,arjunmadan1992@gmail.com,1456116364.0,"Remove log file, mac hidden files"
+Arjun Madan,arjunmadan1992@gmail.com,1456116333.0,Minor fix to applescript
+Arjun Madan,arjunmadan1992@gmail.com,1456114884.0,Remove clipboard-history
+Arjun Madan,arjunmadan1992@gmail.com,1456114712.0,Logging when something is copied onto the system clipboard
+Ran Tan,ran tan,1456114017.0,Fixed some bugs in commands
+Ran Tan,ran tan,1456088443.0,A working word counter
+Brian Clee,bpclee2011@gmail.com,1455652655.0,"updated menus and styles
 
 theoretically menus and styles are now done, spec remains but thats for
 testing later, right now will need to focus on debugging because it
 doesn’t work at all (luckily atom is built on chromium so we have some
 debug tools)"
-Brian Clee,1455650561.0,"reorg, and initial work on the keymaps, lib, and package
+Brian Clee,bpclee2011@gmail.com,1455650561.0,"reorg, and initial work on the keymaps, lib, and package
 
 theoretically the keymaps .cson, package.json, and the two lib .coffee
 files are all altered and could be final, still need to work on menus,
 spec, and styles"
-Ran Tan,1455598113.0,write a short description of this branch
-Arjun Madan,1455594858.0,Update readme
-effat,1455566195.0,Panel Added
-effat,1455565854.0,First Atom Package
-Arjun Madan,1455408022.0,Added base to telemetry
-Brian Clee,1455305659.0,"added textmate project as a subdir to guide edits
+Ran Tan,wonderofaboy@gmail.com,1455598113.0,write a short description of this branch
+Arjun Madan,arjunmadan1992@gmail.com,1455594858.0,Update readme
+effat,effat34@gmail.com,1455566195.0,Panel Added
+effat,effat34@gmail.com,1455565854.0,First Atom Package
+Arjun Madan,arjunmadan1992@gmail.com,1455408022.0,Added base to telemetry
+Brian Clee,bpclee2011@gmail.com,1455305659.0,"added textmate project as a subdir to guide edits
 
 this is really just so i can quickly compare in atom rather than
 looking at the github in a separate window, will remove this when done"
-Brian Clee,1455304469.0,"removed eclipse project
+Brian Clee,bpclee2011@gmail.com,1455304469.0,"removed eclipse project
 
 just merged most recent master to cleebp, now cleaning up dir prior to
 dev, hope this is all in my branch and I’m not screwing with master…"
-Brian Clee,1455304334.0,Merge branch 'master' into cleebp
-Ran Tan,1455252267.0,Start working
-Ran Tan,1455251715.0,remove helloworld demo for eclipse
-Ran Tan,1455251392.0,Try again
-Ran Tan,1455251287.0,Hope this time works
-Ran Tan,1455249434.0,get the base clipboard to my branch
-Brian Clee,1455137058.0,updated main readme
-Brian Clee,1455136141.0,added feature subdirectories
-Brian Clee,1455135981.0,"initial mar1 setup
+Brian Clee,bpclee2011@gmail.com,1455304334.0,Merge branch 'master' into cleebp
+Ran Tan,ran tan,1455252267.0,Start working
+Ran Tan,ran tan,1455251715.0,remove helloworld demo for eclipse
+Ran Tan,ran tan,1455251392.0,Try again
+Ran Tan,ran tan,1455251287.0,Hope this time works
+Ran Tan,ran tan,1455249434.0,get the base clipboard to my branch
+Brian Clee,bpclee2011@gmail.com,1455137058.0,updated main readme
+Brian Clee,bpclee2011@gmail.com,1455136141.0,added feature subdirectories
+Brian Clee,bpclee2011@gmail.com,1455135981.0,"initial mar1 setup
 
 added mar1 folder along with subdirectories for each project “solution”
 or “feature”, open source starter project is located in base and was
 forked with no edits yet"
-Brian Clee,1454380483.0,removed unnecessary latex files
-Arjun Madan,1454380358.0,Removing mac hidden files
-Arjun Madan,1454380243.0,Removing mac files
-Arjun Madan,1454380185.0,Merge branch 'master' of https://github.com/cleebp/csc-510-group-g
-Arjun Madan,1454380071.0,Fixing update I broke
-Brian Clee,1454378605.0,"fixed main readme
+Brian Clee,bpclee2011@gmail.com,1454380483.0,removed unnecessary latex files
+Arjun Madan,arjunmadan1992@gmail.com,1454380358.0,Removing mac hidden files
+Arjun Madan,arjunmadan1992@gmail.com,1454380243.0,Removing mac files
+Arjun Madan,arjunmadan1992@gmail.com,1454380185.0,Merge branch 'master' of https://github.com/cleebp/csc-510-group-g
+Arjun Madan,arjunmadan1992@gmail.com,1454380071.0,Fixing update I broke
+Brian Clee,bpclee2011@gmail.com,1454378605.0,"fixed main readme
 
 silly new lines…"
-Brian Clee,1454378418.0,"updated readmes
+Brian Clee,bpclee2011@gmail.com,1454378418.0,"updated readmes
 
 I wonder what the plural of readme is…"
-Brian Clee,1454377487.0,initial feb1 commit
-Arjun Madan,1454297987.0,Fixed folders
-Arjun Madan,1454129918.0,Added a folder to store the feb1 report
-effat,1454128282.0,Deleted org.plugin.helloworld.rar
-effat,1454127110.0,"Merge branch 'effat' of https://github.com/cleebp/csc-510-group-g into
+Brian Clee,bpclee2011@gmail.com,1454377487.0,initial feb1 commit
+Arjun Madan,arjunmadan1992@gmail.com,1454297987.0,Fixed folders
+Arjun Madan,arjunmadan1992@gmail.com,1454129918.0,Added a folder to store the feb1 report
+effat,effat34@gmail.com,1454128282.0,Deleted org.plugin.helloworld.rar
+effat,effat34@gmail.com,1454127110.0,"Merge branch 'effat' of https://github.com/cleebp/csc-510-group-g into
 blah blah"
-effat,1454126926.0,checking out from master
-effat,1453939837.0,Hello world plugin
-effat,1453936463.0,add all
-effat,1453936347.0,add all
-effat,1453934581.0,Add all files
-Ran Tan,1453319955.0,Eclipse demo
-Brian Clee,1453315610.0,"hello world plugin test commit
+effat,effat34@gmail.com,1454126926.0,checking out from master
+effat,effat34@gmail.com,1453939837.0,Hello world plugin
+effat,effat34@gmail.com,1453936463.0,add all
+effat,effat34@gmail.com,1453936347.0,add all
+effat,effat34@gmail.com,1453934581.0,Add all files
+Ran Tan,ran tan,1453319955.0,Eclipse demo
+Brian Clee,bpclee2011@gmail.com,1453315610.0,"hello world plugin test commit
 
 hope this works"
-Arjun Madan,1452623363.0,Added placeholder for readme
+Arjun Madan,arjunmadan1992@gmail.com,1452623363.0,Added placeholder for readme

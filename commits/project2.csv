@@ -1,236 +1,236 @@
-Yihuan Dong,1461278008.0,"Merge pull request #90 from nikign/decision_tree
+Yihuan Dong,ydong2@ncsu.edu,1461278008.0,"Merge pull request #90 from nikign/decision_tree
 
 Decision tree"
-Niki Gn,1460665202.0,updated presentation
-Niki Gn,1460653341.0,Merge branch 'master' of github.com:nikign/SE-16
-Niki Gn,1460653328.0,updated the presentation
-lintingting,1460150903.0,Update README.md
-lintingting,1460150725.0,Update README.md
-lintingting,1460150419.0,Update README.md
-lintingting,1460150317.0,update
-Niki Gn,1460087909.0,report updated
-Niki Gn,1460087806.0,readme updated
-Niki Gn,1460087551.0,added lecture
-Niki Gn,1460087273.0,Merge branch 'master' of github.com:nikign/SE-16
-Niki Gn,1460087245.0,final report
-Yihuan Dong,1459229299.0,Updated compatibility between Mac and Windows
-lxue3,1459228740.0,Merge branch 'master' of https://github.com/nikign/Git-Helper
-lxue3,1459228725.0,add new crawling data
-boyzhirui,1459228622.0,update search engine data
-boyzhirui,1459228590.0,update search engine
-Lintingting,1459213502.0,add
-Lintingting,1459213410.0,update
-Lintingting,1459213327.0,ignore the unrelative words
-Yihuan Dong,1459211507.0,Added instruction for tools
-Yihuan Dong,1459112195.0,"""added solution provider for authentication error"""
-boyzhirui,1459011668.0,merge
-boyzhirui,1459011569.0,resolve bugs for inputting punctuation characters
-Niki Gn,1459010702.0,fixed problem with email
-Lintingting,1459006717.0,test email
-Lintingting,1459006078.0,test email
-Lintingting,1459005900.0,testing email
-lintingting,1458972716.0,update
-lxue3,1458967611.0,Merge branch 'master' of https://github.com/nikign/Git-Helper
-lxue3,1458967581.0,updata rate_result
-boyzhirui,1458967113.0,resolve conflict
-lxue3,1458967006.0,using crawling data to test email
-boyzhirui,1458962973.0,"upload crawled web data, build index, enhance git-helper search engine."
-Yihuan Dong,1458871249.0,Added ask group number function
-Yihuan Dong,1458867768.0,Added new shell.py to all three solutions
-Yihuan Dong,1458850740.0,added display tool instruction function to shell
-Yihuan Dong,1458849032.0,added ask identification to shell.py
-Yihuan Dong,1458846721.0,removed shell from email solution
-Yihuan Dong,1458845946.0,Added askIdentification function to decision_tree solution
-Yihuan Dong,1458840299.0,"Merge pull request #83 from nikign/mac
+Niki Gn,niki.hp2007@gmail.com,1460665202.0,updated presentation
+Niki Gn,niki.hp2007@gmail.com,1460653341.0,Merge branch 'master' of github.com:nikign/SE-16
+Niki Gn,niki.hp2007@gmail.com,1460653328.0,updated the presentation
+lintingting,lxue3@ncsu.edu,1460150903.0,Update README.md
+lintingting,lxue3@ncsu.edu,1460150725.0,Update README.md
+lintingting,lxue3@ncsu.edu,1460150419.0,Update README.md
+lintingting,lxue3@ncsu.edu,1460150317.0,update
+Niki Gn,niki.hp2007@gmail.com,1460087909.0,report updated
+Niki Gn,niki.hp2007@gmail.com,1460087806.0,readme updated
+Niki Gn,niki.hp2007@gmail.com,1460087551.0,added lecture
+Niki Gn,niki.hp2007@gmail.com,1460087273.0,Merge branch 'master' of github.com:nikign/SE-16
+Niki Gn,niki.hp2007@gmail.com,1460087245.0,final report
+Yihuan Dong,ydong2@ncsu.edu,1459229299.0,Updated compatibility between Mac and Windows
+lxue3,lxue3@ncsu.edu,1459228740.0,Merge branch 'master' of https://github.com/nikign/Git-Helper
+lxue3,lxue3@ncsu.edu,1459228725.0,add new crawling data
+boyzhirui,zhirui1992@gmail.com,1459228622.0,update search engine data
+boyzhirui,zhirui1992@gmail.com,1459228590.0,update search engine
+Lintingting,lxue3@ncsu.edu,1459213502.0,add
+Lintingting,lxue3@ncsu.edu,1459213410.0,update
+Lintingting,lxue3@ncsu.edu,1459213327.0,ignore the unrelative words
+Yihuan Dong,geprcm689@hotmail.com,1459211507.0,Added instruction for tools
+Yihuan Dong,geprcm689@hotmail.com,1459112195.0,"""added solution provider for authentication error"""
+boyzhirui,zhirui1992@gmail.com,1459011668.0,merge
+boyzhirui,zhirui1992@gmail.com,1459011569.0,resolve bugs for inputting punctuation characters
+Niki Gn,niki.hp2007@gmail.com,1459010702.0,fixed problem with email
+Lintingting,lxue3@ncsu.edu,1459006717.0,test email
+Lintingting,lxue3@ncsu.edu,1459006078.0,test email
+Lintingting,lxue3@ncsu.edu,1459005900.0,testing email
+lintingting,lxue3@ncsu.edu,1458972716.0,update
+lxue3,lxue3@ncsu.edu,1458967611.0,Merge branch 'master' of https://github.com/nikign/Git-Helper
+lxue3,lxue3@ncsu.edu,1458967581.0,updata rate_result
+boyzhirui,zhirui1992@gmail.com,1458967113.0,resolve conflict
+lxue3,lxue3@ncsu.edu,1458967006.0,using crawling data to test email
+boyzhirui,zhirui1992@gmail.com,1458962973.0,"upload crawled web data, build index, enhance git-helper search engine."
+Yihuan Dong,geprcm689@hotmail.com,1458871249.0,Added ask group number function
+Yihuan Dong,geprcm689@hotmail.com,1458867768.0,Added new shell.py to all three solutions
+Yihuan Dong,geprcm689@hotmail.com,1458850740.0,added display tool instruction function to shell
+Yihuan Dong,geprcm689@hotmail.com,1458849032.0,added ask identification to shell.py
+Yihuan Dong,geprcm689@hotmail.com,1458846721.0,removed shell from email solution
+Yihuan Dong,geprcm689@hotmail.com,1458845946.0,Added askIdentification function to decision_tree solution
+Yihuan Dong,ydong2@ncsu.edu,1458840299.0,"Merge pull request #83 from nikign/mac
 
 Mac"
-Yihuan Dong,1458609873.0,"""Testing shell on Windows"""
-Yihuan Dong,1458608248.0,"""Shell working on mac"""
-boyzhirui,1458503339.0,"update webCrawler, change stop time"
-Yihuan Dong,1458446859.0,"""fixed cd command error"""
-boyzhirui,1458445611.0,"web crawler
+Yihuan Dong,ydong2@ncsu.edu,1458609873.0,"""Testing shell on Windows"""
+Yihuan Dong,geprcm689@hotmail.com,1458608248.0,"""Shell working on mac"""
+boyzhirui,zhirui1992@gmail.com,1458503339.0,"update webCrawler, change stop time"
+Yihuan Dong,ydong2@ncsu.edu,1458446859.0,"""fixed cd command error"""
+boyzhirui,zhirui1992@gmail.com,1458445611.0,"web crawler
 
 crawl stack overflow related to git errors."
-Gerardo,1458414287.0,"""Git Commit is workable on mac now"""
-Gerardo,1458411796.0,"First workable version on Mac (except commit command, didn't test on errors)"
-Gerardo,1458392423.0,First runnable version on mac
-Yihuan Dong,1458324144.0,"Merge pull request #69 from nikign/decision_tree
+Gerardo,geprcm689@hotmail.com,1458414287.0,"""Git Commit is workable on mac now"""
+Gerardo,geprcm689@hotmail.com,1458411796.0,"First workable version on Mac (except commit command, didn't test on errors)"
+Gerardo,geprcm689@hotmail.com,1458392423.0,First runnable version on mac
+Yihuan Dong,ydong2@ncsu.edu,1458324144.0,"Merge pull request #69 from nikign/decision_tree
 
 Decision tree"
-Yihuan Dong,1458323970.0,Added merge solution provider
-Yihuan Dong,1458263697.0,added commit solution provider
-Yihuan Dong,1458250758.0,Refactored adding parameter to solution section
-Yihuan Dong,1458238607.0,added solution provider for checkout command
-Yihuan Dong,1458228607.0,Added solution provider for add command
-Yihuan Dong,1458153587.0,"Merge pull request #68 from nikign/decision_tree
+Yihuan Dong,ydong2@ncsu.edu,1458323970.0,Added merge solution provider
+Yihuan Dong,ydong2@ncsu.edu,1458263697.0,added commit solution provider
+Yihuan Dong,ydong2@ncsu.edu,1458250758.0,Refactored adding parameter to solution section
+Yihuan Dong,ydong2@ncsu.edu,1458238607.0,added solution provider for checkout command
+Yihuan Dong,ydong2@ncsu.edu,1458228607.0,Added solution provider for add command
+Yihuan Dong,ydong2@ncsu.edu,1458153587.0,"Merge pull request #68 from nikign/decision_tree
 
 Decision tree"
-Yihuan Dong,1458152987.0,added How_to_add_a_solution instruction. Fixed a bug on logging if there is solution
-Yihuan Dong,1458151680.0,added shell to email and web solution
-Yihuan Dong,1458150481.0,renamed main.py to shell.py to avoid name conflict with other solutions
-Yihuan Dong,1458095434.0,added a tool column to decision tree solution
-Yihuan Dong,1458094863.0,added a tool column in logging
-Yihuan Dong,1458093362.0,First workable clear version
-Yihuan Dong,1458091990.0,base of clean version
-Yihuan Dong,1458090526.0,"Merge pull request #67 from nikign/decision_tree
+Yihuan Dong,ydong2@ncsu.edu,1458152987.0,added How_to_add_a_solution instruction. Fixed a bug on logging if there is solution
+Yihuan Dong,ydong2@ncsu.edu,1458151680.0,added shell to email and web solution
+Yihuan Dong,ydong2@ncsu.edu,1458150481.0,renamed main.py to shell.py to avoid name conflict with other solutions
+Yihuan Dong,ydong2@ncsu.edu,1458095434.0,added a tool column to decision tree solution
+Yihuan Dong,ydong2@ncsu.edu,1458094863.0,added a tool column in logging
+Yihuan Dong,ydong2@ncsu.edu,1458093362.0,First workable clear version
+Yihuan Dong,ydong2@ncsu.edu,1458091990.0,base of clean version
+Yihuan Dong,ydong2@ncsu.edu,1458090526.0,"Merge pull request #67 from nikign/decision_tree
 
 Decision tree"
-Yihuan Dong,1456888779.0,"Update README.md
+Yihuan Dong,ydong2@ncsu.edu,1456888779.0,"Update README.md
 
 Added  to evaluation plan part."
-Niki Gn,1456854467.0,Merge branch 'master' of github.com:nikign/SE-16
-Niki Gn,1456854460.0,changed readme
-boyzhirui,1456852368.0,add todo in main.py
-boyzhirui,1456851986.0,add todo for main.py(filter unicode input)
-Ray,1456847721.0,update install detail
-Niki Gn,1456822183.0,create git email helper directory
-Niki Gn,1456821564.0,added log file to gitignore
-Niki Gn,1456821384.0,enhanced email body
-Niki Gn,1456821358.0,corrected google_search spelling
-lintingting,1456802078.0,update
-lintingting,1456799758.0,add evalution plan
-Yihuan Dong,1456797619.0,appended log.csv
-Yihuan Dong,1456797312.0,Edited Solution display.
-Ray,1456791488.0,update git helper web log link
-Yihuan Dong,1456787226.0,added colorama
-Yihuan Dong,1456786459.0,resolved conflict
-Yihuan Dong,1456786127.0,Merge branch 'decision_tree'
-Yihuan Dong,1456784840.0,uploading log file
-lintingting,1456784493.0,updata readme for march 1
-Yihuan Dong,1456781088.0,added asking user satisfaction
-boyzhirui,1456778804.0,add interation log for git helper website
-boyzhirui,1456778765.0,add interation log for git helper website
-lxue3,1456768590.0,return answer list as email search result
-Yihuan Dong,1456720417.0,added logging functionality
-Yihuan Dong,1456634226.0,Finished adding solution to git pull command
-Yihuan Dong,1456614813.0,Added one solution for pull conflict
-Yihuan Dong,1456610188.0,Moved all solution related functions to solutionProvider.py
-Yihuan Dong,1456608315.0,Added constants in Constant.py and edited greeting() and added exitMessage()
-Yihuan Dong,1456606351.0,Finish adding solution for push command
-Yihuan Dong,1456590900.0,display solution and command as a step by step list and added logo to solution part
-Yihuan Dong,1456590838.0,added general no solution message
-Yihuan Dong,1456590757.0,added next_step.txt to keep track of next goal
-lxue3,1456549641.0,fix query websearch error
-lxue3,1456548900.0,comment print
-Yihuan Dong,1456548869.0,added welcome logo
-lxue3,1456548843.0,comment print
-lxue3,1456548804.0,refactor googlesearch script
-Yihuan Dong,1456547529.0,Added printSolution function and restructured solution message
-boyzhirui,1456546462.0, update Readme file and remove unnecessary packages
-Yihuan Dong,1456546231.0,removed background color
-boyzhirui,1456545208.0,add explanation for blank link
-Yihuan Dong,1456544563.0,provide hint for one push error
-lxue3,1456542260.0,fix normlization error
-lxue3,1456541477.0,"catch request error, throw out the error link"
-lxue3,1456527750.0,delete dump file moule
-nikign,1456527684.0,removed prints
-nikign,1456527059.0,Merge branch 'master' of github.com:nikign/Git-Helper
-nikign,1456527051.0,show exception in email_handler
-lxue3,1456520667.0,updata git helper srcripts
-lxue3,1456520585.0,upload tfidf.py
-lxue3,1456520448.0,add tfidf calculation method
-boyzhirui,1456520262.0,update rate_results
-lxue3,1456519839.0,change python package to implement tfidf
-lxue3,1456519770.0,change python package to implement tfidf
-boyzhirui,1456516938.0,install GAE needed package  through setup.py
-boyzhirui,1456509508.0,fix package name
-boyzhirui,1456509092.0,"install necessary packages
+Niki Gn,niki.hp2007@gmail.com,1456854467.0,Merge branch 'master' of github.com:nikign/SE-16
+Niki Gn,niki.hp2007@gmail.com,1456854460.0,changed readme
+boyzhirui,zhirui1992@gmail.com,1456852368.0,add todo in main.py
+boyzhirui,zhirui1992@gmail.com,1456851986.0,add todo for main.py(filter unicode input)
+Ray,zhirui1992@gmail.com,1456847721.0,update install detail
+Niki Gn,niki.hp2007@gmail.com,1456822183.0,create git email helper directory
+Niki Gn,niki.hp2007@gmail.com,1456821564.0,added log file to gitignore
+Niki Gn,niki.hp2007@gmail.com,1456821384.0,enhanced email body
+Niki Gn,niki.hp2007@gmail.com,1456821358.0,corrected google_search spelling
+lintingting,lxue3@ncsu.edu,1456802078.0,update
+lintingting,lxue3@ncsu.edu,1456799758.0,add evalution plan
+Yihuan Dong,ydong2@ncsu.edu,1456797619.0,appended log.csv
+Yihuan Dong,ydong2@ncsu.edu,1456797312.0,Edited Solution display.
+Ray,zhirui1992@gmail.com,1456791488.0,update git helper web log link
+Yihuan Dong,ydong2@ncsu.edu,1456787226.0,added colorama
+Yihuan Dong,ydong2@ncsu.edu,1456786459.0,resolved conflict
+Yihuan Dong,ydong2@ncsu.edu,1456786127.0,Merge branch 'decision_tree'
+Yihuan Dong,ydong2@ncsu.edu,1456784840.0,uploading log file
+lintingting,lxue3@ncsu.edu,1456784493.0,updata readme for march 1
+Yihuan Dong,ydong2@ncsu.edu,1456781088.0,added asking user satisfaction
+boyzhirui,zhirui1992@gmail.com,1456778804.0,add interation log for git helper website
+boyzhirui,zhirui1992@gmail.com,1456778765.0,add interation log for git helper website
+lxue3,lxue3@ncsu.edu,1456768590.0,return answer list as email search result
+Yihuan Dong,ydong2@ncsu.edu,1456720417.0,added logging functionality
+Yihuan Dong,ydong2@ncsu.edu,1456634226.0,Finished adding solution to git pull command
+Yihuan Dong,ydong2@ncsu.edu,1456614813.0,Added one solution for pull conflict
+Yihuan Dong,ydong2@ncsu.edu,1456610188.0,Moved all solution related functions to solutionProvider.py
+Yihuan Dong,ydong2@ncsu.edu,1456608315.0,Added constants in Constant.py and edited greeting() and added exitMessage()
+Yihuan Dong,ydong2@ncsu.edu,1456606351.0,Finish adding solution for push command
+Yihuan Dong,ydong2@ncsu.edu,1456590900.0,display solution and command as a step by step list and added logo to solution part
+Yihuan Dong,ydong2@ncsu.edu,1456590838.0,added general no solution message
+Yihuan Dong,ydong2@ncsu.edu,1456590757.0,added next_step.txt to keep track of next goal
+lxue3,lxue3@ncsu.edu,1456549641.0,fix query websearch error
+lxue3,lxue3@ncsu.edu,1456548900.0,comment print
+Yihuan Dong,ydong2@ncsu.edu,1456548869.0,added welcome logo
+lxue3,lxue3@ncsu.edu,1456548843.0,comment print
+lxue3,lxue3@ncsu.edu,1456548804.0,refactor googlesearch script
+Yihuan Dong,ydong2@ncsu.edu,1456547529.0,Added printSolution function and restructured solution message
+boyzhirui,zhirui1992@gmail.com,1456546462.0, update Readme file and remove unnecessary packages
+Yihuan Dong,ydong2@ncsu.edu,1456546231.0,removed background color
+boyzhirui,zhirui1992@gmail.com,1456545208.0,add explanation for blank link
+Yihuan Dong,ydong2@ncsu.edu,1456544563.0,provide hint for one push error
+lxue3,lxue3@ncsu.edu,1456542260.0,fix normlization error
+lxue3,lxue3@ncsu.edu,1456541477.0,"catch request error, throw out the error link"
+lxue3,lxue3@ncsu.edu,1456527750.0,delete dump file moule
+nikign,niki.hp2007@gmail.com,1456527684.0,removed prints
+nikign,niki.hp2007@gmail.com,1456527059.0,Merge branch 'master' of github.com:nikign/Git-Helper
+nikign,niki.hp2007@gmail.com,1456527051.0,show exception in email_handler
+lxue3,lxue3@ncsu.edu,1456520667.0,updata git helper srcripts
+lxue3,lxue3@ncsu.edu,1456520585.0,upload tfidf.py
+lxue3,lxue3@ncsu.edu,1456520448.0,add tfidf calculation method
+boyzhirui,zhirui1992@gmail.com,1456520262.0,update rate_results
+lxue3,lxue3@ncsu.edu,1456519839.0,change python package to implement tfidf
+lxue3,lxue3@ncsu.edu,1456519770.0,change python package to implement tfidf
+boyzhirui,zhirui1992@gmail.com,1456516938.0,install GAE needed package  through setup.py
+boyzhirui,zhirui1992@gmail.com,1456509508.0,fix package name
+boyzhirui,zhirui1992@gmail.com,1456509092.0,"install necessary packages
 
 All the required packages are mentioned in lib_requirements.txt, run
 setup.py to install those packages."
-Lintingting,1456464597.0, change nltk package to stopwords package
-Lintingting,1456464539.0, change nltk package to stopwords package
-nikign,1456463500.0,changed import style in rate results
-lxue3,1456461472.0,refactor parser code
-lxue3,1456461309.0,delete unused scripts
-lxue3,1456461165.0,email reponse is good to test
-lxue3,1456457643.0,remove unused model
-lxue3,1456457527.0,delete stackover flow parser 2
-lxue3,1456457459.0,delete stackover flow parser
-lxue3,1456457322.0, web searching engine
-lxue3,1456457175.0, web searching engine
-Niki Gn,1456449813.0,html content added to questions and answers from the parser
-Yihuan Dong,1456448039.0,Replaced WindowsError with Exception
-Yihuan Dong,1456447467.0,Changed color display
-Yihuan Dong,1456446792.0,Removed testing directory path
-Ray,1456446504.0,"Merge pull request #45 from nikign/decision_tree
+Lintingting,lxue3@ncsu.edu,1456464597.0, change nltk package to stopwords package
+Lintingting,lxue3@ncsu.edu,1456464539.0, change nltk package to stopwords package
+nikign,niki.hp2007@gmail.com,1456463500.0,changed import style in rate results
+lxue3,lxue3@ncsu.edu,1456461472.0,refactor parser code
+lxue3,lxue3@ncsu.edu,1456461309.0,delete unused scripts
+lxue3,lxue3@ncsu.edu,1456461165.0,email reponse is good to test
+lxue3,lxue3@ncsu.edu,1456457643.0,remove unused model
+lxue3,lxue3@ncsu.edu,1456457527.0,delete stackover flow parser 2
+lxue3,lxue3@ncsu.edu,1456457459.0,delete stackover flow parser
+lxue3,lxue3@ncsu.edu,1456457322.0, web searching engine
+lxue3,lxue3@ncsu.edu,1456457175.0, web searching engine
+Niki Gn,niki.hp2007@gmail.com,1456449813.0,html content added to questions and answers from the parser
+Yihuan Dong,ydong2@ncsu.edu,1456448039.0,Replaced WindowsError with Exception
+Yihuan Dong,ydong2@ncsu.edu,1456447467.0,Changed color display
+Yihuan Dong,ydong2@ncsu.edu,1456446792.0,Removed testing directory path
+Ray,zhirui1992@gmail.com,1456446504.0,"Merge pull request #45 from nikign/decision_tree
 
 Decision tree"
-Yihuan Dong,1456445872.0,added color on error message
-Lintingting,1456445666.0,test googlesearch
-Niki Gn,1456444622.0,Exception for not correct format files added
-lintingting,1456443456.0,"Merge pull request #37 from nikign/extract_question_ans_html
+Yihuan Dong,ydong2@ncsu.edu,1456445872.0,added color on error message
+Lintingting,lxue3@ncsu.edu,1456445666.0,test googlesearch
+Niki Gn,niki.hp2007@gmail.com,1456444622.0,Exception for not correct format files added
+lintingting,lxue3@ncsu.edu,1456443456.0,"Merge pull request #37 from nikign/extract_question_ans_html
 
 Stack Overflow QuestionParser Added"
-Lintingting,1456443428.0,merge branch
-lxue3,1456434560.0,Return search result filter with cossimilaity and tfidf
-boyzhirui,1456370044.0,polish result page
-lxue3,1456350249.0,update Tfidf
-lxue3,1456349869.0,updata tfidf
-Yihuan Dong,1456332865.0,Fixed bug where command line cannot capture error message
-Niki Gn,1456297909.0,"send mail process enhanced, don't answer twice, reply, connect to search"
-Yihuan Dong,1456290202.0,fixed cd command bug
-Niki Gn,1456286889.0,ignore .pyc files in git
-Yihuan Dong,1456285677.0,added constant.py to store contants
-Yihuan Dong,1456282620.0,buid a wrapper for git commands
-Niki Gn,1456278150.0,"Answer Parser added, package created for stack overflow parsers"
-Niki Gn,1456276646.0,small bugfix on QuestionParser
-boyzhirui,1456252528.0,"ignore bootstrap, update customized css"
-Niki Gn,1456181855.0,Stack Overflow QuestionParser Added
-boyzhirui,1456176447.0,"add readme for git helper search engine
+Lintingting,lxue3@ncsu.edu,1456443428.0,merge branch
+lxue3,lxue3@ncsu.edu,1456434560.0,Return search result filter with cossimilaity and tfidf
+boyzhirui,zhirui1992@gmail.com,1456370044.0,polish result page
+lxue3,lxue3@ncsu.edu,1456350249.0,update Tfidf
+lxue3,lxue3@ncsu.edu,1456349869.0,updata tfidf
+Yihuan Dong,ydong2@ncsu.edu,1456332865.0,Fixed bug where command line cannot capture error message
+Niki Gn,niki.hp2007@gmail.com,1456297909.0,"send mail process enhanced, don't answer twice, reply, connect to search"
+Yihuan Dong,ydong2@ncsu.edu,1456290202.0,fixed cd command bug
+Niki Gn,niki.hp2007@gmail.com,1456286889.0,ignore .pyc files in git
+Yihuan Dong,ydong2@ncsu.edu,1456285677.0,added constant.py to store contants
+Yihuan Dong,ydong2@ncsu.edu,1456282620.0,buid a wrapper for git commands
+Niki Gn,niki.hp2007@gmail.com,1456278150.0,"Answer Parser added, package created for stack overflow parsers"
+Niki Gn,niki.hp2007@gmail.com,1456276646.0,small bugfix on QuestionParser
+boyzhirui,zhirui1992@gmail.com,1456252528.0,"ignore bootstrap, update customized css"
+Niki Gn,niki.hp2007@gmail.com,1456181855.0,Stack Overflow QuestionParser Added
+boyzhirui,zhirui1992@gmail.com,1456176447.0,"add readme for git helper search engine
 
 add readme file."
-boyzhirui,1456176101.0,"connect the result page with rate_results.py
+boyzhirui,zhirui1992@gmail.com,1456176101.0,"connect the result page with rate_results.py
 
 - connect the result page with rate_results.py
 - delete unnecessary code
 - polish the page"
-boyzhirui,1456172437.0,"polish the index page
+boyzhirui,zhirui1992@gmail.com,1456172437.0,"polish the index page
 
 add logo and footer"
-boyzhirui,1456155897.0,"ignore the pyc and css file within Google App Engine, Import result module into website script"
-boyzhirui,1456155727.0,"add gitignore, ignore the pyc file within Google App Engine"
-Niki Gn,1456092941.0,Script to add needed functions to Google App Engine Project
-Yihuan Dong,1456089821.0,Added color to terminal output
-Niki Gn,1456089399.0,remove unnecessary files and add them to gitignore
-Niki Gn,1456087578.0,merge with master
-Niki Gn,1456087519.0,add a mock for web results
-Niki Gn,1456087498.0,find the text instead of html content of the email
-boyzhirui,1456087377.0,"change organization of files
+boyzhirui,zhirui1992@gmail.com,1456155897.0,"ignore the pyc and css file within Google App Engine, Import result module into website script"
+boyzhirui,zhirui1992@gmail.com,1456155727.0,"add gitignore, ignore the pyc file within Google App Engine"
+Niki Gn,niki.hp2007@gmail.com,1456092941.0,Script to add needed functions to Google App Engine Project
+Yihuan Dong,ydong2@ncsu.edu,1456089821.0,Added color to terminal output
+Niki Gn,niki.hp2007@gmail.com,1456089399.0,remove unnecessary files and add them to gitignore
+Niki Gn,niki.hp2007@gmail.com,1456087578.0,merge with master
+Niki Gn,niki.hp2007@gmail.com,1456087519.0,add a mock for web results
+Niki Gn,niki.hp2007@gmail.com,1456087498.0,find the text instead of html content of the email
+boyzhirui,zhirui1992@gmail.com,1456087377.0,"change organization of files
 
 move git-help-2016 into git-web folder"
-Lintingting,1456083311.0,The basic stracutre for google search
-Ray,1455997745.0,"Merge pull request #30 from nikign/Rui
+Lintingting,lxue3@ncsu.edu,1456083311.0,The basic stracutre for google search
+Ray,zhirui1992@gmail.com,1455997745.0,"Merge pull request #30 from nikign/Rui
 
 simple dynamic website"
-Niki Gn,1455950262.0,A simple email handler that reads emails and replies with the same text added
-boyzhirui,1455911873.0,"simple dynamic website
+Niki Gn,niki.hp2007@gmail.com,1455950262.0,A simple email handler that reads emails and replies with the same text added
+boyzhirui,zhirui1992@gmail.com,1455911873.0,"simple dynamic website
 
 build a simple dynamic website with one input box using Google App
 Enginee"
-Niki Gn,1454630055.0,update README
-Niki Gn,1454629899.0,merge README
-boyzhirui,1454629702.0,clean Readme.md
-Niki Gn,1454629694.0,updating README
-CEI_BARNES_3,1454629340.0,make the repository more clean
-Ray,1454625886.0,Delete README.md~
-Ray,1454625855.0,Delete #README.md#
-Lintingting,1454625624.0,We are trying to merge confict
-boyzhirui,1454625539.0,revise readme
-Lintingting,1454625508.0,testing
-Lintingting,1454625257.0,Merge branch 'master' of https://github.com/nikign/SE-16
-boyzhirui,1454625186.0,update readme
-Lintingting,1454625180.0,testing
-lintingting,1454523055.0,update
-lintingting,1454523004.0,update
-lintingting,1454522882.0,Update README.md
-lintingting,1454522789.0,update readme
-lintingting,1454520214.0,delete
-lintingting,1454520190.0,Create Implement Three Solution - March 1
-boyzhirui,1454355961.0,update
-boyzhirui,1454347848.0,update
-boyzhirui,1454333729.0,"feb 1 project
+Niki Gn,niki.hp2007@gmail.com,1454630055.0,update README
+Niki Gn,barnes_3@barnes.local,1454629899.0,merge README
+boyzhirui,zhirui1992@gmail.com,1454629702.0,clean Readme.md
+Niki Gn,barnes_3@barnes.local,1454629694.0,updating README
+CEI_BARNES_3,barnes_3@barnes.local,1454629340.0,make the repository more clean
+Ray,zhirui1992@gmail.com,1454625886.0,Delete README.md~
+Ray,zhirui1992@gmail.com,1454625855.0,Delete #README.md#
+Lintingting,lxue3@ncsu.edu,1454625624.0,We are trying to merge confict
+boyzhirui,zhirui1992@gmail.com,1454625539.0,revise readme
+Lintingting,lxue3@ncsu.edu,1454625508.0,testing
+Lintingting,lxue3@ncsu.edu,1454625257.0,Merge branch 'master' of https://github.com/nikign/SE-16
+boyzhirui,zhirui1992@gmail.com,1454625186.0,update readme
+Lintingting,lxue3@ncsu.edu,1454625180.0,testing
+lintingting,lxue3@ncsu.edu,1454523055.0,update
+lintingting,lxue3@ncsu.edu,1454523004.0,update
+lintingting,lxue3@ncsu.edu,1454522882.0,Update README.md
+lintingting,lxue3@ncsu.edu,1454522789.0,update readme
+lintingting,lxue3@ncsu.edu,1454520214.0,delete
+lintingting,lxue3@ncsu.edu,1454520190.0,Create Implement Three Solution - March 1
+boyzhirui,zhirui1992@gmail.com,1454355961.0,update
+boyzhirui,zhirui1992@gmail.com,1454347848.0,update
+boyzhirui,zhirui1992@gmail.com,1454333729.0,"feb 1 project
 
 Describe the problem we find in detail."
-Ray,1453431718.0,Update README.md
-nikign,1452272893.0,Initial commit
+Ray,zhirui1992@gmail.com,1453431718.0,Update README.md
+nikign,niki.hp2007@gmail.com,1452272893.0,Initial commit

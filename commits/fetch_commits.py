@@ -38,12 +38,13 @@ def dump1(u,commits,csvwriter):
   for event in w:
     if event is None: continue
     user = event['commit']['committer']['name']
+    email = event['commit']['committer']['email']
     print(user)
     commit_at = event['commit']['committer']['date']
     commit_at = secs(commit_at)
     message = event['commit']['message']
     print(commit_at)
-    csvwriter.writerows([[user,commit_at,message.encode("utf-8")]])
+    csvwriter.writerows([[user,email,commit_at,message.encode("utf-8")]])
   return True
   
 
