@@ -2,7 +2,7 @@ from __future__ import print_function
 import urllib2
 import json
 import re,datetime
-import sys
+import sys, os
 import csv
  
 class L():
@@ -29,6 +29,7 @@ def secs(d0):
 def get_all_issues(file_name):
   csvfile = file(file_name,'rb')
   reader = csv.reader(csvfile)
+  print("=========== #",os.path.splitext(file_name)[0], "ISSUES # ===========")
   t = []
   labels = set([])
   count_not_closed = 0
@@ -47,16 +48,16 @@ def get_all_issues(file_name):
       if state == 'closed':
         count_not_in_time += 1
   
-  print("NOT CLOSED ISSUES # ===========")
+  print("NOT CLOSED ISSUES")
   print(count_not_closed)
 
-  print("NOT LABELLED ISSUES # ===========")
+  print("NOT LABELLED ISSUES")
   print(count_not_closed)
 
-  print("NO MILESTONES IN ISSUES #===========")
+  print("NO MILESTONES IN ISSUES")
   print(count_not_milestones)
 
-  print("COUNTING THE ISSUE WHICH IS OVERDUE===========")
+  print("OVERDUE ISSUES")
   print(count_not_in_time)
   
   csvfile.close()
