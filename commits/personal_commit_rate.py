@@ -30,14 +30,21 @@ def secs(d0):
 def get_commit_rate(file_name):
   csvfile = file(file_name,'rb')
   reader = csv.reader(csvfile)
-  name = set([])
+  f.write('\n')
+  txt = "=========== # "+ os.path.splitext(file_name)[0] + " PERSONAL COMMITS # ==========="
+  txt = str(txt)
+  print(txt)
+  f.write(txt)
+  f.write('\n')
+  names = set([])
   for line in reader:
      [user,email,commit_at,message] = line
-     name.add(email)
-  print (name)
+     names.add(email)
+  print (names)
+  name_list = list(names)
   
   personalCommit = []
-  for member in name:
+  for member in names:
      x = []
      csvfile.seek(0)
      for line in reader:
@@ -57,6 +64,7 @@ def get_commit_rate(file_name):
   for i in range(total_week):
      end.append(t[0]+(i+1)*7*24*3600)
 
+  num = 0
   for t in personalCommit:
      week = []
      weeks = [[]]
@@ -73,10 +81,19 @@ def get_commit_rate(file_name):
                w+= 1
         week.append(w)
      print(week)
+     f.write('\n')
+     f.write(name_list[num])
+     f.write(str(week))
+     f.write('\n')
      weeks.append(week)
-  csvfile.close() 
-  print("=========================")
+     num += 1
+  csvfile.close()
+
+f = open('commit_summary.txt','w')
+f.truncate()
 
 get_commit_rate('project1.csv')
 get_commit_rate('project2.csv')
 get_commit_rate('project3.csv')
+
+f.close()

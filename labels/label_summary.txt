@@ -1,0 +1,9 @@
+
+=========== # project1 LABELS USED # ===========
+['bug', 'duplicate', 'enhancement', 'help wanted', 'invalid', 'question', 'wontfix']
+
+=========== # project2 LABELS USED # ===========
+['Evalutation', 'Solution One', 'Solution Three', 'Solution Two', 'bug', 'design', 'duplicate', 'enhancement', 'feature', 'help wanted', 'in progress', 'in testing', 'invalid', 'optimize', 'question', 'wontfix']
+
+=========== # project3 LABELS USED # ===========
+['Apr 1', 'Feb 1', 'Mar 1', 'May 1', 'bug', 'design', 'discussion', 'duplicate', 'enhancement', 'feature', 'help wanted', 'in progress', 'in testing', 'invalid', 'meeting', 'question', 'wontfix']

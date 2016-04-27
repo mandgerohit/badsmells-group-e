@@ -1,0 +1,44 @@
+
+=========== # project1 PERSONAL COMMITS # ===========
+
+mandge.rohit@gmail.com[0, 0, 2, 0, 0, 5, 7, 1, 0, 0, 0, 5, 15]
+
+rnmandge@ncsu.edu[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+rupaj.soni@gmail.com[0, 0, 0, 0, 0, 3, 0, 3, 0, 0, 0, 2, 3]
+
+adityadmandhare@gmail.com[0, 0, 0, 0, 0, 0, 2, 6, 0, 0, 0, 0, 14]
+
+dharmendra89g@gmail.com[1, 0, 2, 0, 0, 0, 27, 6, 0, 0, 0, 3, 5]
+
+rosoni@ncsu.edu[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+
+adityamandhare@gmail.com[0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0]
+
+=========== # project2 PERSONAL COMMITS # ===========
+
+ydong2@ncsu.edu[0, 0, 0, 0, 0, 0, 9, 21, 0, 13, 5, 1, 0, 0]
+
+niki.hp2007@gmail.com[1, 0, 0, 1, 0, 0, 14, 9, 0, 0, 0, 1, 5, 3]
+
+lxue3@ncsu.edu[0, 0, 0, 10, 0, 0, 17, 16, 0, 0, 0, 12, 0, 4]
+
+geprcm689@hotmail.com[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 2, 0, 0]
+
+barnes_3@barnes.local[0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+zhirui1992@gmail.com[0, 1, 0, 8, 0, 0, 11, 12, 0, 0, 2, 6, 0, 0]
+
+=========== # project3 PERSONAL COMMITS # ===========
+
+arjunmadan1992@gmail.com[1, 0, 6, 0, 2, 6, 12, 5, 2, 0, 3, 0, 0, 1]
+
+ran tan[0, 1, 0, 0, 5, 3, 8, 0, 0, 0, 0, 0, 0, 0]
+
+effat34@gmail.com[0, 0, 7, 0, 2, 0, 13, 4, 0, 0, 1, 0, 0, 0]
+
+bpclee2011@gmail.com[0, 1, 4, 0, 6, 8, 15, 5, 0, 0, 7, 3, 2, 2]
+
+trueblue2704@users.noreply.github.com[0, 0, 0, 0, 0, 0, 4, 2, 2, 0, 4, 0, 0, 0]
+
+wonderofaboy@gmail.com[0, 0, 0, 0, 1, 0, 3, 1, 0, 0, 1, 0, 0, 0]
