@@ -29,7 +29,12 @@ def secs(d0):
 def get_all_issues(file_name):
   csvfile = file(file_name,'rb')
   reader = csv.reader(csvfile)
-  print("=========== #",os.path.splitext(file_name)[0], "ISSUES # ===========")
+  f.write('\n')
+  txt = "=========== # "+ os.path.splitext(file_name)[0] + " ISSUES # ==========="
+  txt = str(txt)
+  print(txt)
+  f.write(txt)
+  f.write('\n')
   t = []
   labels = set([])
   count_not_closed = 0
@@ -48,22 +53,37 @@ def get_all_issues(file_name):
       if state == 'closed':
         count_not_in_time += 1
   
-  print("NOT CLOSED ISSUES")
+  txt = "NOT CLOSED ISSUES"
+  print(txt)
   print(count_not_closed)
+  f.write(txt + " : "+ str(count_not_closed))
+  f.write('\n')
 
-  print("NOT LABELLED ISSUES")
-  print(count_not_closed)
+  txt = "NOT LABELLED ISSUES"
+  print(txt)
+  print(count_not_labelled)
+  f.write(txt + " : "+ str(count_not_labelled))
+  f.write('\n')
 
-  print("NO MILESTONES IN ISSUES")
+  txt = "NO MILESTONES IN ISSUES"
+  print(txt)
   print(count_not_milestones)
+  f.write(txt + " : "+ str(count_not_milestones))
+  f.write('\n')
 
-  print("OVERDUE ISSUES")
+  txt = "OVERDUE ISSUES"
+  print(txt)
   print(count_not_in_time)
+  f.write(txt + " : "+ str(count_not_in_time))
+  f.write('\n')
   
   csvfile.close()
+
+f = open('issue_summary.txt','w')
+f.truncate()
 
 get_all_issues('project1.csv')
 get_all_issues('project2.csv')
 get_all_issues('project3.csv')
 
-
+f.close()
