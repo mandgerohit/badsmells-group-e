@@ -41,31 +41,34 @@ def get_all_issues(file_name):
   count_not_labelled = 0
   count_not_milestones = 0
   count_not_in_time = 0
+  count_not_description = 0
   for line in reader:
-    [number,state,creator,create_at,labels,milestonedue,last_update] = line
+    [number,title,description,state,creator,create_at,labels,milestonedue,last_update] = line
     if state != 'closed':
       count_not_closed += 1
     if labels == '[]':
       count_not_labelled += 1
     if milestonedue == '-1':
       count_not_milestones += 1
+    if description == '':
+      count_not_description += 1
     if int(float(milestonedue)) > 0 and int(float(last_update)) > int(float(milestonedue)):
       if state == 'closed':
         count_not_in_time += 1
   
-  txt = "NOT CLOSED ISSUES"
+  txt = "ISSUES NOT CLOSED"
   print(txt)
   print(count_not_closed)
   f.write(txt + " : "+ str(count_not_closed))
   f.write('\n')
 
-  txt = "NOT LABELLED ISSUES"
+  txt = "ISSUES WITHOUT LABELS"
   print(txt)
   print(count_not_labelled)
   f.write(txt + " : "+ str(count_not_labelled))
   f.write('\n')
 
-  txt = "NO MILESTONES IN ISSUES"
+  txt = "ISSUES WITHOUT MILESTONES"
   print(txt)
   print(count_not_milestones)
   f.write(txt + " : "+ str(count_not_milestones))
@@ -75,6 +78,12 @@ def get_all_issues(file_name):
   print(txt)
   print(count_not_in_time)
   f.write(txt + " : "+ str(count_not_in_time))
+  f.write('\n')
+
+  txt = "ISSUES WITHOUT DESCRIPTION"
+  print(txt)
+  print(count_not_description)
+  f.write(txt + " : "+ str(count_not_description))
   f.write('\n')
   
   csvfile.close()

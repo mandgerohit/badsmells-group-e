@@ -38,6 +38,8 @@ def dump1(u, csvwriter):
     #print(event)
     number    = event['number']
     state     = event['state']
+    title     = event['title']
+    description = event['body']
     creator   = event['user']['login']
     create_at = secs(event['created_at'])
     labels = []
@@ -55,7 +57,7 @@ def dump1(u, csvwriter):
          closed_at = secs(event['closed_at'])
     else:
          closed_at = -1
-    csvwriter.writerows([[number,state,creator,create_at,labels,milestonedue,last_update]])
+    csvwriter.writerows([[number,title.encode("utf-8"),description.encode("utf-8"),state,creator,create_at,labels,milestonedue,last_update]])
   return True
 
 def dump(u,csvwriter):

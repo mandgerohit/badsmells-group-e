@@ -33,7 +33,7 @@ def get_issue_distribution(file_name):
   t = []
   creator_set = set([])
   for line in reader:
-     [number,state,creator,create_at,labels,milestonedue,last_update] = line
+     [number,title,description,state,creator,create_at,labels,milestonedue,last_update] = line
      creator_set.add(creator)
 
   dis = []
@@ -41,7 +41,7 @@ def get_issue_distribution(file_name):
      count = 0
      csvfile.seek(0)
      for line in reader:
-        [number,state,creator,create_at,labels,milestonedue,last_update] = line
+        [number,title,description,state,creator,create_at,labels,milestonedue,last_update] = line
         if creator == mm:
           count += 1
      dis.append(count)

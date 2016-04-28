@@ -42,7 +42,7 @@ def get_issue_distribution(file_name):
   reader = csv.reader(csvfile)
   t = []
   for line in reader:
-     [number,state,creator,create_at,labels,milestonedue,last_update] = line
+     [number,title,description,state,creator,create_at,labels,milestonedue,last_update] = line
      t.append(int(float(create_at)))
   t.sort()
   week = []

@@ -1,86 +1,253 @@
-86,open,cleebp,1461698747.0,"['May 1', 'meeting']",1462075200.0,1461731518.0
-85,open,reachspirit,1460573975.0,"['in progress', 'May 1']",1462075200.0,1461557516.0
-84,open,effat,1460573845.0,"['design', 'May 1']",1462075200.0,1461599855.0
-83,open,trueblue2704,1460573656.0,"['in progress', 'May 1']",1462075200.0,1461598836.0
-82,open,cleebp,1460573531.0,['May 1'],1462075200.0,1461083422.0
-81,closed,cleebp,1460573402.0,['meeting'],1462075200.0,1461698592.0
-80,closed,cleebp,1460045172.0,"['May 1', 'meeting']",1462075200.0,1460574336.0
-79,closed,cleebp,1459872061.0,"['Apr 1', 'in progress']",1460001600.0,1460045001.0
-78,closed,cleebp,1459800677.0,"['Apr 1', 'discussion']",1460001600.0,1460045026.0
-77,closed,cleebp,1459785833.0,['Apr 1'],1460001600.0,1459976554.0
-76,closed,cleebp,1459711769.0,"['Apr 1', 'discussion']",1460001600.0,1459976573.0
-75,closed,cleebp,1459456378.0,"['Apr 1', 'discussion']",1460001600.0,1459976566.0
-74,closed,cleebp,1459364750.0,"['Apr 1', 'design']",1460001600.0,1459871117.0
-73,closed,trueblue2704,1459214138.0,"['Apr 1', 'discussion', 'in progress']",1460001600.0,1459361231.0
-72,closed,cleebp,1459188412.0,[],-1,1459361238.0
-71,closed,cleebp,1459187303.0,"['Apr 1', 'meeting']",1460001600.0,1459711974.0
-70,closed,reachspirit,1459129920.0,[],-1,1459187637.0
-69,closed,reachspirit,1459103473.0,[],-1,1459130186.0
-68,closed,trueblue2704,1458787936.0,[],-1,1458787986.0
-67,closed,cleebp,1458761753.0,"['Apr 1', 'discussion']",1460001600.0,1459800564.0
-66,closed,cleebp,1458761702.0,"['Apr 1', 'in progress']",1459396800.0,1459361257.0
-65,closed,cleebp,1458761669.0,"['Apr 1', 'help wanted']",1459396800.0,1459187709.0
-64,closed,cleebp,1458761615.0,['Apr 1'],1459396800.0,1459361251.0
-63,closed,cleebp,1458761384.0,"['Apr 1', 'discussion', 'meeting']",1460001600.0,1459456400.0
-62,closed,cleebp,1458761336.0,"['Apr 1', 'discussion', 'meeting']",1459396800.0,1459187742.0
-61,closed,cleebp,1458673446.0,"['Apr 1', 'discussion', 'meeting']",1460001600.0,1458788047.0
-60,closed,reachspirit,1458154484.0,"['Apr 1', 'bug', 'in progress']",-1,1458759821.0
-59,closed,cleebp,1458147995.0,"['Apr 1', 'discussion', 'meeting']",1459396800.0,1459187687.0
-58,closed,trueblue2704,1457919293.0,"['Apr 1', 'enhancement', 'in testing']",1459396800.0,1457919333.0
-57,closed,trueblue2704,1457551639.0,"['Apr 1', 'enhancement', 'in progress']",1459396800.0,1458788007.0
-56,closed,trueblue2704,1457551587.0,"['Apr 1', 'enhancement', 'help wanted', 'in testing']",1459396800.0,1458787986.0
-55,closed,trueblue2704,1457551422.0,"['Apr 1', 'discussion', 'in progress']",1459396800.0,1460573699.0
-54,closed,trueblue2704,1457499969.0,[],-1,1458148004.0
-53,closed,cleebp,1457453996.0,[],-1,1457545754.0
-52,closed,effat,1457409512.0,"['Apr 1', 'discussion']",1460001600.0,1457551897.0
-51,closed,cleebp,1456949470.0,"['bug', 'help wanted', 'Mar 1', 'meeting']",1456981200.0,1456949918.0
-50,closed,trueblue2704,1456946120.0,[],-1,1456946190.0
-49,closed,trueblue2704,1456890818.0,"['discussion', 'in testing']",1456981200.0,1456946260.0
-48,closed,cleebp,1456863006.0,"['bug', 'in testing', 'Mar 1']",1456808400.0,1456946302.0
-47,closed,trueblue2704,1456852393.0,"['feature', 'Mar 1']",1456808400.0,1456890702.0
-46,closed,trueblue2704,1456852343.0,"['feature', 'Mar 1']",1456808400.0,1456852350.0
-45,closed,cleebp,1456852283.0,"['in progress', 'in testing', 'Mar 1']",1456808400.0,1456857747.0
-44,closed,cleebp,1456850459.0,"['in testing', 'Mar 1']",1456808400.0,1456852144.0
-43,closed,cleebp,1456768998.0,"['discussion', 'help wanted', 'Mar 1']",1456981200.0,1456944388.0
-42,closed,trueblue2704,1456690985.0,[],-1,1456690990.0
-41,closed,cleebp,1456690757.0,[],-1,1456690777.0
-40,closed,reachspirit,1456687781.0,[],-1,1456688281.0
-39,closed,reachspirit,1456630149.0,"['help wanted', 'Mar 1', 'question']",1456808400.0,1456690247.0
-38,closed,reachspirit,1456346716.0,"['discussion', 'help wanted', 'Mar 1']",1456808400.0,1456628762.0
-37,closed,trueblue2704,1456346468.0,[],-1,1457026243.0
-36,closed,cleebp,1456346261.0,"['discussion', 'Mar 1']",1456808400.0,1456692755.0
-35,closed,reachspirit,1456345030.0,"['bug', 'question']",-1,1457026260.0
-34,closed,trueblue2704,1456344775.0,[],-1,1456345103.0
-33,closed,trueblue2704,1456344718.0,[],-1,1456346826.0
-32,closed,trueblue2704,1456344661.0,[],-1,1456344669.0
-31,closed,cleebp,1456344316.0,['Mar 1'],1456808400.0,1456344515.0
-30,closed,trueblue2704,1456342308.0,"['enhancement', 'feature', 'Mar 1']",1456808400.0,1456852311.0
-29,closed,reachspirit,1456199442.0,"['discussion', 'help wanted']",-1,1456200451.0
-28,closed,cleebp,1456166053.0,"['discussion', 'Mar 1']",1456290000.0,1456346888.0
-27,closed,effat,1456085261.0,"['design', 'enhancement']",-1,1456944490.0
-26,closed,cleebp,1455738956.0,"['discussion', 'Mar 1']",1456981200.0,1457040462.0
-25,closed,cleebp,1455735944.0,"['discussion', 'meeting']",1455685200.0,1455738519.0
-24,closed,cleebp,1455735391.0,"['feature', 'in testing', 'Mar 1']",1456290000.0,1456341433.0
-23,closed,reachspirit,1455599616.0,"['discussion', 'Mar 1']",1455685200.0,1455738496.0
-22,closed,cleebp,1455305108.0,"['design', 'discussion', 'in progress']",1455685200.0,1455735477.0
-21,closed,effat,1455136856.0,"['feature', 'in progress', 'Mar 1']",1456290000.0,1456342238.0
-20,closed,reachspirit,1455136827.0,"['feature', 'in progress', 'Mar 1']",1456808400.0,1456692772.0
-19,closed,cleebp,1455136756.0,"['feature', 'in progress', 'Mar 1']",1455685200.0,1455735462.0
-18,closed,trueblue2704,1455136559.0,"['feature', 'in progress', 'Mar 1']",1456290000.0,1456342429.0
-17,closed,effat,1455132906.0,[],-1,1455137498.0
-16,closed,cleebp,1455037382.0,['discussion'],-1,1455136469.0
-15,closed,trueblue2704,1454625089.0,"['discussion', 'Mar 1']",1455080400.0,1454625133.0
-14,closed,reachspirit,1454625025.0,"['discussion', 'Mar 1']",1455080400.0,1455136845.0
-13,closed,reachspirit,1454624918.0,"['discussion', 'Mar 1']",1455080400.0,1455136450.0
-12,closed,reachspirit,1454624862.0,"['discussion', 'Mar 1']",1455080400.0,1455136453.0
-11,closed,trueblue2704,1454621556.0,"['design', 'discussion', 'feature', 'Mar 1']",1456808400.0,1456692782.0
-10,closed,effat,1454621500.0,[],-1,1454621540.0
-9,closed,trueblue2704,1454621447.0,"['design', 'discussion', 'Mar 1']",1456808400.0,1456346928.0
-8,closed,trueblue2704,1454621212.0,"['feature', 'help wanted', 'Mar 1']",1456808400.0,1455136798.0
-7,closed,trueblue2704,1454620995.0,"['discussion', 'in progress', 'Mar 1']",1456808400.0,1455136794.0
-6,closed,cleebp,1454350321.0,"['Feb 1', 'question']",1454302800.0,1454377299.0
-5,closed,trueblue2704,1454128859.0,"['Feb 1', 'question']",1454302800.0,1454348515.0
-4,closed,cleebp,1453672175.0,['Feb 1'],1454302800.0,1454377299.0
-3,closed,reachspirit,1452823546.0,['Feb 1'],1454302800.0,1454377299.0
-2,closed,cleebp,1452709106.0,['Feb 1'],1454302800.0,1454377299.0
-1,closed,cleebp,1452638598.0,['Feb 1'],1454302800.0,1454377299.0
+87,This is a test issue.,,closed,trueblue2704,1461787793.0,[],-1,1461787927.0
+86,Meeting Apr 27th,"Well I forgot to reserve a room last week and by now everything is booked for tomorrow because of finals xD
+
+We have a couple options, we could try to just find an open table somewhere in Hunt... Or we could meet in my lab! We have a giant whiteboard and tons of space and chairs and such, it will also be quiet so its a good meeting space.
+
+Let me know what you guys want to do!",open,cleebp,1461698747.0,"['May 1', 'meeting']",1462075200.0,1461794312.0
+85,Draft statistics and tasks to care about on bad smells,How to define bad smells by combination of small features?,open,reachspirit,1460573975.0,"['in progress', 'May 1']",1462075200.0,1461557516.0
+84,R script for graph plot,,open,effat,1460573845.0,"['design', 'May 1']",1462075200.0,1461599855.0
+83,Getting gitable running,"- Get gitable running
+- Store data for all groups
+- Etc.",open,trueblue2704,1460573656.0,"['in progress', 'May 1']",1462075200.0,1461598836.0
+82,Report Outline,Issue related to the report for may 1.,open,cleebp,1460573531.0,['May 1'],1462075200.0,1461083422.0
+81,Meeting Apr 20th,"Hunt Library 
+Rm 3315
+2pm-4pm",closed,cleebp,1460573402.0,['meeting'],1462075200.0,1461698592.0
+80,Meeting Apr 13,"Just reserved a room for next Wednesday's meeting:
+
+Hunt Room 3314
+2pm-4pm
+
+We will start working on the May1 deliverable :D",closed,cleebp,1460045172.0,"['May 1', 'meeting']",1462075200.0,1460574336.0
+79,Presentation Content,"Since our other issue #75 deals with presentation details (time of presentation, total talking time, etc.) I thought I'd make a new issue specifically on filling out the content of the slides so we can close it once its all drafted.
+
+I'll be spending today working on slide content and will post here with updates/questions.",closed,cleebp,1459872061.0,"['Apr 1', 'in progress']",1460001600.0,1460045001.0
+78,Report Edits,"Hey guys, as I said in the other issue now that the report is in a finished draft state, we can use this issue to talk about major changes if they come up! 
+
+To start, I just went through and did a bunch of edits to the introduction/abstract, working on the grammar and also embellishing a lot on the lists and breaking them into paragraph form, gonna walk through the rest of the sections in a bit.",closed,cleebp,1459800677.0,"['Apr 1', 'discussion']",1460001600.0,1460045026.0
+77,Repo Management,"Hey guys just wanted to create an issue to let y'all know that I'm going to be working on all of the Readme's inside Apr1 today so that our repo is in a more submittable state.
+
+Will post back here when I'm done!",closed,cleebp,1459785833.0,['Apr 1'],1460001600.0,1459976554.0
+76,Meeting Apr 06,Hunt 3314 2pm-4pm,closed,cleebp,1459711769.0,"['Apr 1', 'discussion']",1460001600.0,1459976573.0
+75,Presentation Notes,"Instructor's notes at the beginning of class:
+
+- 20 minutes to talk (not setup, have it all online and all setup)
+- 5 minutes questions
+- describe what you did, describe your data, show us one of your three things is best
+- show us you did something cool",closed,cleebp,1459456378.0,"['Apr 1', 'discussion']",1460001600.0,1459976566.0
+74,Presentation Outline,Outline goes here:,closed,cleebp,1459364750.0,"['Apr 1', 'design']",1460001600.0,1459871117.0
+73,Data collected from experiments,"I've added the start and end times, and calculated the duration for each of the tasks (page 2 on the google sheets thingamajig). I've also left a template for the second set of experiments.",closed,trueblue2704,1459214138.0,"['Apr 1', 'discussion', 'in progress']",1460001600.0,1459361231.0
+72,pyobjc on mac,halp,closed,cleebp,1459188412.0,[],-1,1459361238.0
+71,Meeting Apr. 3,"Hunt Library 3315 2:30-4:30.
+
+Finishing touches on paper, shifting gears towards presentation.",closed,cleebp,1459187303.0,"['Apr 1', 'meeting']",1460001600.0,1459711974.0
+70,Problem with clipit-panel,"Clipit-panel doesn't support copy and paste from webpage. We have to right click the mouse to copy and paste the item. Also, it reported an error after using mouse.
+
+
+![img_20160327_210709r](https://cloud.githubusercontent.com/assets/16613192/14069316/1d644d62-f466-11e5-8751-d5639264f138.jpg)
+",closed,reachspirit,1459129920.0,[],-1,1459187637.0
+69,Having problem with telemetry and clipit-cmd,"While doing experiments with a windows machine, I found that the telemetry doesn't work in windows. The package clipit-cmd works in windows, but there seems to be a problem with 'ctr-shift-j'. I need help with setting up the experiment!",closed,reachspirit,1459103473.0,[],-1,1459130186.0
+68,Telemetry,This fixes #56 and #57 ,closed,trueblue2704,1458787936.0,[],-1,1458787986.0
+67,Report Structure,"Have this all fleshed out on sharelatex, will post details here.",closed,cleebp,1458761753.0,"['Apr 1', 'discussion']",1460001600.0,1459800564.0
+66,Finish post survey,Edits discussed in meeting,closed,cleebp,1458761702.0,"['Apr 1', 'in progress']",1459396800.0,1459361257.0
+65,Finish tasks,"I have finished the first 6, we need ~4 more from /lib/clipboard-history-view.coffee",closed,cleebp,1458761669.0,"['Apr 1', 'help wanted']",1459396800.0,1459187709.0
+64,Conduct experiments,Script is [here](https://docs.google.com/document/d/1yp9Z-WW9dk94bfyYBGdK9cPU9S79OQM1Ef1eF1v0niU/edit),closed,cleebp,1458761615.0,['Apr 1'],1459396800.0,1459361251.0
+63,Meeting Mar. 30th,Room 3314,closed,cleebp,1458761384.0,"['Apr 1', 'discussion', 'meeting']",1460001600.0,1459456400.0
+62,Meeting Mar 28th ,"Meeting monday march 28th, room 3314",closed,cleebp,1458761336.0,"['Apr 1', 'discussion', 'meeting']",1459396800.0,1459187742.0
+61,Meeting Mar 23rd,"Hey all, 
+
+I just looked a the library schedule and most rooms were full for tomorrow but I just reserved Room 4515 in Hunt from 2pm-4pm. 
+",closed,cleebp,1458673446.0,"['Apr 1', 'discussion', 'meeting']",1460001600.0,1458788047.0
+60,Fix bug with clipit-order,The sorting algorithm should only be called when 'history' is not empty. I'll fix it when possible.,closed,reachspirit,1458154484.0,"['Apr 1', 'bug', 'in progress']",-1,1458759821.0
+59,Meeting Mar 16th,"Hey all,
+
+I just realized that I never booked a room for today so I'm not sure if we have one or not. I just reserved room 3316 from 2-3pm if we haven't (couldn't find any that lasted longer).
+
+I know Arjun said he probably can't make it till 2:30 but wanted to try running the telemetry on one of the pc laptops.
+
+I haven't really done much of anything since our last meeting because I was studying for the midterm, luckily the due date for our Apr 1 deliverable got extended till Apr 7 so we can probably push back having all of our experiment design done till next week.",closed,cleebp,1458147995.0,"['Apr 1', 'discussion', 'meeting']",1459396800.0,1459187687.0
+58,Telemetry accepts custom output file names,- Ability to specify destination file name for where the logs are stored.,closed,trueblue2704,1457919293.0,"['Apr 1', 'enhancement', 'in testing']",1459396800.0,1457919333.0
+57,Telemetry performance fix,- Make telemetry event driven.,closed,trueblue2704,1457551639.0,"['Apr 1', 'enhancement', 'in progress']",1459396800.0,1458788007.0
+56,Telemetry support for Windows,- Add capability to save copy/paste information with Atom on Windows.,closed,trueblue2704,1457551587.0,"['Apr 1', 'enhancement', 'help wanted', 'in testing']",1459396800.0,1458787986.0
+55,Experiment Setup,- Finalize design and structure of the experiment.,closed,trueblue2704,1457551422.0,"['Apr 1', 'discussion', 'in progress']",1459396800.0,1460573699.0
+54,Meeting Mar 9th,"Sorry for the late notice, but is it possible to meet at 4pm instead of the usual 2pm tomorrow? I have some work I have to get done in the afternoon.",closed,trueblue2704,1457499969.0,[],-1,1458148004.0
+53,Grades for Mar1 Deliverable are up!,"[link here](https://docs.google.com/spreadsheets/d/1lmZWcIzDaocFZXMnl6GXs30auYG7Rr59Quu7ZCtfCz4/edit#gid=0)
+
+We got full points! Also, fun fact, we were the only group to get full marks! Go us!!!
+
+:D :D :D :D",closed,cleebp,1457453996.0,[],-1,1457545754.0
+52,Project Presentation Slot on April,"What will be our presentation slot? It will be convenient for me other than 4/5, as I have a midterm on that day. ",closed,effat,1457409512.0,"['Apr 1', 'discussion']",1460001600.0,1457551897.0
+51,Everything is on fire,help,closed,cleebp,1456949470.0,"['bug', 'help wanted', 'Mar 1', 'meeting']",1456981200.0,1456949918.0
+50,Adding telemtry,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,closed,trueblue2704,1456946120.0,[],-1,1456946190.0
+49,Merge telemetry with master,,closed,trueblue2704,1456890818.0,"['discussion', 'in testing']",1456981200.0,1456946260.0
+48,Baseorder (clipit-order) not working on mac,"So I'm trying to get Ran's baseorder working on my mac and am running into an error whenever I try to do anything with it.
+
+The error is usually formatted like so:
+
+> Uncaught TypeError: Cannot read property of 'length' of undefined
+
+Any ideas what might be causing this? It seems like it has to do with the history variable, maybe something with the serialization? ",closed,cleebp,1456863006.0,"['bug', 'in testing', 'Mar 1']",1456808400.0,1456946302.0
+47,Integrate telemetry with clipit-panel,,closed,trueblue2704,1456852393.0,"['feature', 'Mar 1']",1456808400.0,1456890702.0
+46,Integrate telemetry with clipit-context,,closed,trueblue2704,1456852343.0,"['feature', 'Mar 1']",1456808400.0,1456852350.0
+45,Clipit-panel additions,"Hey all,
+
+I'm fiddling with Effat's clipit-panel today and just wanted to log what I'm trying out, if we don't like the changes we can always revert my changes, just thought I'd try to make the interaction a little more seamless!
+
+I'll just post on this issue what I'm trying out...
+
+1. I have made it so that when you copy an item it immediately shows up on the panel, rather than showing up only after hitting the paste command (note for items copied outside of atom they will only show up on the panel after you paste them into atom)",closed,cleebp,1456852283.0,"['in progress', 'in testing', 'Mar 1']",1456808400.0,1456857747.0
+44,Clipit-panel mac integration,Going to be working today on getting the clipit-panel feature working on my mac!,closed,cleebp,1456850459.0,"['in testing', 'Mar 1']",1456808400.0,1456852144.0
+43,DEMO TIME SWITCH,"Hey guys, Dr. Menzies had something come up during our slot for the demo, so he moved us to 3pm on Thursday with Shaown, can everyone make this time?
+
+I know I can but if someone else can't they should speak up with a time that does work thats still open.
+
+xD",closed,cleebp,1456768998.0,"['discussion', 'help wanted', 'Mar 1']",1456981200.0,1456944388.0
+42,Added log sample,,closed,trueblue2704,1456690985.0,[],-1,1456690990.0
+41,Effat's merge,"Please work, i think i know what I’m doing, but I’m pretty sure i also don’t.
+
+Theoretically this will pull in Effat’s feature into /clipit-panel, and still retain everything else… theoretically…",closed,cleebp,1456690757.0,[],-1,1456690777.0
+40,Reachspirit,,closed,reachspirit,1456687781.0,[],-1,1456688281.0
+39,Problem with sorting array of objects by properties,"I have a problem with sorting copied items. Since @history is an array of object and I put count, source  as properties of the object of each copied item, I need to sort an array of objects by their properties. According to javascript, a sort method is provided to array, so what I need to do is like this:
+
+    history.sort(function(a, b) {
+        return a.count - b.count;
+    });
+
+translated to coffeescript, we get:
+
+    @history.sort (a, b) ->
+        a.count - b.count
+
+Yet, it showed that a is not defined. I'm not sure whether there are any syntax errors. Any suggestions?",closed,reachspirit,1456630149.0,"['help wanted', 'Mar 1', 'question']",1456808400.0,1456690247.0
+38,Posts on data persistence,Adding favorite reservations requires persistent data support. There are basically two ways: Using the serialize method provided by atom API or read and write to a file. Post supporting materials here.,closed,reachspirit,1456346716.0,"['discussion', 'help wanted', 'Mar 1']",1456808400.0,1456628762.0
+37,Mar 2nd Meeting Notes,Room 3314.,closed,trueblue2704,1456346468.0,[],-1,1457026243.0
+36,Feb. 28th Meeting Notes,Issue for meeting notes for this coming sunday.,closed,cleebp,1456346261.0,"['discussion', 'Mar 1']",1456808400.0,1456692755.0
+35,Problem with the relative position of PREVIEW,"Something went wrong with the interface. 
+![image](https://cloud.githubusercontent.com/assets/16613192/13299396/fba50c32-db08-11e5-80e4-b27ad3568cd3.png)
+Two critical sections are:
+
+          if atom.config.get 'baseorder.showSnippetForLargeItems'
+            @div class: 'preview hidden panel-bottom padded', =>
+              @pre text.initial
+
+    
+    preview = view.find '.preview'
+    if preview.length isnt 0 and preview.text().length > 65 and atom.config.get 'baseorder.showSnippetForLargeItems'
+      if view.position().top isnt 0
+        preview.css({ 'top': (view.position().top - 5) + 'px'})
+      preview.removeClass 'hidden'",closed,reachspirit,1456345030.0,"['bug', 'question']",-1,1457026260.0
+34,Adding telemetry.,,closed,trueblue2704,1456344775.0,[],-1,1456345103.0
+33,"Revert ""Adding telemetry.""",Reverts cleebp/csc-510-group-g#32,closed,trueblue2704,1456344718.0,[],-1,1456346826.0
+32,Adding telemetry.,,closed,trueblue2704,1456344661.0,[],-1,1456344669.0
+31,Cleebp,merging the “final” stable clipit-cmd package into master,closed,cleebp,1456344316.0,['Mar 1'],1456808400.0,1456344515.0
+30,Integrate telemetry with clip-cmd.,,closed,trueblue2704,1456342308.0,"['enhancement', 'feature', 'Mar 1']",1456808400.0,1456852311.0
+29,atom-space-pen-views,"I created a new package with package generator and modified the original source code to make it work. The debugger showed a dependency problem with 'atom-space-pen-views', while I did included this package in dependencies in the file of package.json. Did anyone ever run into this problem?",closed,reachspirit,1456199442.0,"['discussion', 'help wanted']",-1,1456200451.0
+28,Feb. 24th Meeting Notes,Issue to leave notes for the meeting on the 24th.,closed,cleebp,1456166053.0,"['discussion', 'Mar 1']",1456290000.0,1456346888.0
+27,Add sticky notes feature to the panel ,,closed,effat,1456085261.0,"['design', 'enhancement']",-1,1456944490.0
+26,Final Demo,"Right now we are scheduled to demo with Dr. Menzies on Thurs March 3rd at 4pm, and also with Shaown on Wed. March 2nd at 3:30pm [here is the link for sign-ups](https://docs.google.com/spreadsheets/d/11IO6URv5Tq4VlEvlAFC8sa44OCtjwu_rksQoAyeQT8s/edit#gid=0).
+
+We will find out if we need both or just one and then cancel or what not... ",closed,cleebp,1455738956.0,"['discussion', 'Mar 1']",1456981200.0,1457040462.0
+25,Feb 17th Meeting Notes,"Going to try and start making weekly issue just on our meeting notes, maybe put them up ahead of time so if there are relevant links for the meeting you can post them for all to see! 
+
+So here is the issue for this week's meeting (albeit a bit late, but better late than never).",closed,cleebp,1455735944.0,"['discussion', 'meeting']",1455685200.0,1455738519.0
+24,Debugging/Testing Clipit-cmd,"Bulk development on clipit-cmd is done, this issue is a placeholder for my debugging/testing of the plug-ing.",closed,cleebp,1455735391.0,"['feature', 'in testing', 'Mar 1']",1456290000.0,1456341433.0
+23,A tutorial on creating the first Atom plugin,"This may help you understand how a plugin works in Atom and figure out the function of each part of the code.
+
+http://blog.fxndev.com/create-your-first-atom-package-in-js/
+",closed,reachspirit,1455599616.0,"['discussion', 'Mar 1']",1455685200.0,1455738496.0
+22,package.json,"Hey guys,
+
+Looking through the package.json file it looks like this is where we setup simple description type data.
+
+To make sure we are all kinda on the same page I'm proposing we sort of follow the following conventions:
+
+""name"": ""clipit-FEATURE_NAME"" => here for example the command line feature would be ""clipit-cmd""
+""author"": ""name"": ""Brian Clee, Effat Farhana, Arjun Madan, and Ran Tan""
+""author"": ""url"": ""https://github.com/cleebp/csc-510-group-g""
+...
+""repository"": ""https://github.com/cleebp/csc-510-group-g""
+...
+
+The rest of this file can sort of change as needed for each feature, if you want to change the names from ""clipboard-history"" to ""clipit-FEATURE_NAME"" that could be a good idea but might cause a lot of dependency errors that will need fixing.",closed,cleebp,1455305108.0,"['design', 'discussion', 'in progress']",1455685200.0,1455735477.0
+21,Panel Feature,,closed,effat,1455136856.0,"['feature', 'in progress', 'Mar 1']",1456290000.0,1456342238.0
+20,Contextual Ordering,"Favorites and reservations.
+Source of items. 
+",closed,reachspirit,1455136827.0,"['feature', 'in progress', 'Mar 1']",1456808400.0,1456692772.0
+19,Command Interaction,"Interactions within the clipboard history through commands, as seen in the textmate plugin here:
+
+https://github.com/jkeen/atom-textmate-clipboard",closed,cleebp,1455136756.0,"['feature', 'in progress', 'Mar 1']",1455685200.0,1455735462.0
+18,Telemetry,"- Log where stuff is copied from
+- Timestamps
+- Anything else??",closed,trueblue2704,1455136559.0,"['feature', 'in progress', 'Mar 1']",1456290000.0,1456342429.0
+17,3 Features to be implemented,,closed,effat,1455132906.0,[],-1,1455137498.0
+16,Wednesday Meeting 2/10/2016,"Hey all,
+
+Not sure if we remembered to book a room for this week, I just checked and our normal room is booked so I grabbed 3315 from 2pm-4pm!",closed,cleebp,1455037382.0,['discussion'],-1,1455136469.0
+15,Exploration with Eclipse,,closed,trueblue2704,1454625089.0,"['discussion', 'Mar 1']",1455080400.0,1454625133.0
+14,Exploration with Atom Platform,Post supporting materials for Atom here.,closed,reachspirit,1454625025.0,"['discussion', 'Mar 1']",1455080400.0,1455136845.0
+13,Exploration with Sublime Platform,Post supporting materials for Sublime here.,closed,reachspirit,1454624918.0,"['discussion', 'Mar 1']",1455080400.0,1455136450.0
+12,Exploration with Eclipse Platform,Post supporting materials for Eclipse here.,closed,reachspirit,1454624862.0,"['discussion', 'Mar 1']",1455080400.0,1455136453.0
+11,Intelligent display options,"- Different ways to display information to the user?
+- Making it easy to use",closed,trueblue2704,1454621556.0,"['design', 'discussion', 'feature', 'Mar 1']",1456808400.0,1456692782.0
+10,Intelligent Contextual Ordering,,closed,effat,1454621500.0,[],-1,1454621540.0
+9,Intelligent contextual ordering,"- Best way to order items?
+- Group items by source?
+
+Different ways of ordering:
+- based on usage
+- chronological
+- reverse chronological
+- something else?
+",closed,trueblue2704,1454621447.0,"['design', 'discussion', 'Mar 1']",1456808400.0,1456346928.0
+8,System wide copying,Add support to the clipboard manager to allow copying from external programs/sources.,closed,trueblue2704,1454621212.0,"['feature', 'help wanted', 'Mar 1']",1456808400.0,1455136798.0
+7,Multi-item clipboard,Find/develop a clipboard manager that has support for multiple items.,closed,trueblue2704,1454620995.0,"['discussion', 'in progress', 'Mar 1']",1456808400.0,1455136794.0
+6,Final Edits,"Hey all, I'll be reading through the paper multiple times today and just making general edits/cleaning up grammar if I notice anything.
+
+If we have anything discussion wise we want to bring up to the group we can post those here!",closed,cleebp,1454350321.0,"['Feb 1', 'question']",1454302800.0,1454377299.0
+5,Feb1 report reorganization,"I think we should consider reorganizing section 2 (Project Goals) and 4 (Copy and Paste in Practice), so that the different ideas we had for the clipboard manager come after section 4, which builds up to the need for one, and how it could help programmers.
+
+What do you all think about this?",closed,trueblue2704,1454128859.0,"['Feb 1', 'question']",1454302800.0,1454348515.0
+4,Sharelatex,"Hey so I made the sharelatex document and am adding everyone as collaborators. 
+
+Unfortunately because of the way the Github syncing works for sharelatex I had to create a new repo for our report. Here is the link: https://github.com/cleebp/group-g-feb1-report 
+
+I guess what we can do is make separate repos anytime we want to make a report in Sharelatex, and then when we are ready to get our deliverables together for a deadline we will just make a folder inside our main repo here, name it something like 'Feb 1 Deliverables' and copy over our final pdf from our Sharelatex workspace.
+
+Really the github features of sharelatex aren't even needed since we will all be collaborators on the project, but all the same I will add all of us to the new repo just in case Dr. Menzies wants it.",closed,cleebp,1453672175.0,['Feb 1'],1454302800.0,1454377299.0
+3,A List of Tasks,"Here are some tasks to do based on the requirements of the project:
+
+1. Clearly define PUTG and try to justify the definition:
+
+P(problem): Why simple operations like copying and pasting may cause a problem to users? What are the most common behavior patterns that lead to these problems? What are the problems with existing clipboard managers(In what aspects they need to be improved)?
+
+U(user group): What are the targeted users(How to category a user group)? Who are affected most by the problem we mentioned above? What are typical environments and what are the behavior patterns of the targeted users in that particular environment? 
+
+T(software tools): Eclipse IDE itself is a software tool. What are the features of the IDE? What specific design principles or rules we need to follow when developing the plug-in(How to make it consistent with the platform)? What is possible with the IDE and what may be impractical given the time? What tools are we going to use for the management of the project and why we choose them(Git-Github, shareLatex)?  
+
+G(goal): What functions will the plug-in include and what will not? How to define the usability of a clipboard manager? How to prove that our design is really better than other clipboard managers? 
+
+
+2. Data collection:
+Were the review documents' inclusion and exclusion criteria described and appropriate?
+What's the relationship between our project to code clone and what's the difference?
+
+Is the literature search likely to have covered all relevant studies(How can we prove that it's a thorough study of the problem)?
+
+Did the reviewers assess the quality/validity of the included studies? (e.g. citations counts, recency)
+
+Were the basic data/studies adequately described? Are we able to get the original data instead of second hand analysis?
+
+
+3. Start up exercise and competency proof:
+Create a Hello-World eclipse plug-in/plug-in extension and push it to the branch.
+
+
+",closed,reachspirit,1452823546.0,['Feb 1'],1454302800.0,1454377299.0
+2,Howto: Eclipse Plug-In Development,"This issue is meant to be a place for information on how to actually write a plug-in for Eclipse.
+
+To start with I have found a link that goes over generally how to begin development on plug-ins, and importantly how to setup your workspace: http://agile.csc.ncsu.edu/SEMaterials/tutorials/plugin_dev/
+
+",closed,cleebp,1452709106.0,['Feb 1'],1454302800.0,1454377299.0
+1,Literature Review,"To justify our development of a clipboard manager we need to either create and test a user group (12 hour rule), or complete a literature review on our topic which justifies our software. 
+
+This can be a place where we keep track of promising literature related to clipboard managers, copy and paste habits, code cloning, etc. ",closed,cleebp,1452638598.0,['Feb 1'],1454302800.0,1454377299.0

@@ -1,57 +1,59 @@
-57,closed,DharmendraVaghela,1460078310.0,[],-1,1460078314.0
-56,closed,adityamandhare,1460070940.0,[],-1,1461651311.0
-55,closed,adityamandhare,1459915437.0,"['enhancement', 'help wanted']",-1,1459997052.0
-54,closed,adityamandhare,1459915353.0,['enhancement'],-1,1461651316.0
-53,closed,rupajsoni,1459910794.0,['enhancement'],-1,1459988182.0
-52,closed,mandgerohit,1459910623.0,['enhancement'],-1,1461651418.0
-51,closed,mandgerohit,1459910546.0,['enhancement'],-1,1461651411.0
-50,closed,mandgerohit,1459910515.0,"['enhancement', 'help wanted']",-1,1461651437.0
-49,closed,rupajsoni,1459910381.0,['enhancement'],-1,1459988165.0
-48,closed,mandgerohit,1459910357.0,"['enhancement', 'help wanted']",-1,1461651379.0
-47,closed,rupajsoni,1459910157.0,['bug'],-1,1461651451.0
-46,closed,mandgerohit,1459636139.0,['enhancement'],-1,1459910331.0
-45,closed,mandgerohit,1459632194.0,['help wanted'],-1,1459997010.0
-44,closed,mandgerohit,1459632055.0,['bug'],-1,1459988165.0
-43,closed,DharmendraVaghela,1459480667.0,"['bug', 'enhancement', 'question']",1460001600.0,1459997001.0
-42,closed,DharmendraVaghela,1459480561.0,"['enhancement', 'help wanted', 'question']",1460001600.0,1459988165.0
-41,closed,mandgerohit,1459480014.0,['enhancement'],-1,1459632147.0
-40,closed,mandgerohit,1459479988.0,['enhancement'],-1,1459632129.0
-39,closed,DharmendraVaghela,1456892057.0,"['enhancement', 'help wanted', 'question']",-1,1456892088.0
-38,closed,mandgerohit,1456887156.0,['enhancement'],-1,1459632105.0
-37,closed,adityamandhare,1456875628.0,['help wanted'],-1,1456884237.0
-36,closed,DharmendraVaghela,1456858165.0,"['enhancement', 'help wanted', 'question']",-1,1456858182.0
-35,closed,DharmendraVaghela,1456818180.0,"['enhancement', 'help wanted', 'question']",-1,1456818215.0
-34,closed,DharmendraVaghela,1456817923.0,[],-1,1456817927.0
-33,closed,DharmendraVaghela,1456817845.0,[],-1,1456817849.0
-32,closed,DharmendraVaghela,1456817638.0,['enhancement'],-1,1456818104.0
-31,closed,DharmendraVaghela,1456817142.0,[],-1,1456817148.0
-30,closed,DharmendraVaghela,1456814199.0,[],-1,1456814218.0
-29,closed,mandgerohit,1456780972.0,['enhancement'],-1,1461651482.0
-28,closed,rupajsoni,1456780828.0,"['duplicate', 'enhancement']",-1,1461651467.0
-27,closed,mandgerohit,1456778416.0,[],-1,1456780982.0
-26,closed,DharmendraVaghela,1456777708.0,"['duplicate', 'enhancement', 'question']",1456808400.0,1456892344.0
-25,closed,DharmendraVaghela,1456777270.0,"['enhancement', 'help wanted', 'question']",1456808400.0,1459480602.0
-24,closed,DharmendraVaghela,1456777178.0,['help wanted'],1456808400.0,1456892361.0
-23,closed,DharmendraVaghela,1456771021.0,[],-1,1456771030.0
-22,closed,DharmendraVaghela,1456767266.0,[],-1,1456767288.0
-21,closed,DharmendraVaghela,1456700780.0,[],-1,1456700786.0
-20,closed,adityamandhare,1456674626.0,['help wanted'],-1,1456884309.0
-19,closed,adityamandhare,1456674548.0,['help wanted'],-1,1456887013.0
-18,closed,DharmendraVaghela,1456638398.0,['help wanted'],1456808400.0,1456892384.0
-17,closed,DharmendraVaghela,1456638307.0,['question'],1456808400.0,1456892390.0
-16,closed,DharmendraVaghela,1456632772.0,[],-1,1456632777.0
-15,closed,DharmendraVaghela,1456632426.0,[],-1,1456632449.0
-14,closed,mandgerohit,1456374113.0,"['help wanted', 'question']",-1,1461651503.0
-13,closed,DharmendraVaghela,1455848688.0,[],1456808400.0,1456892396.0
-12,closed,adityamandhare,1455848551.0,['question'],-1,1456884492.0
-11,closed,mandgerohit,1455848385.0,['help wanted'],-1,1456887091.0
-10,closed,mandgerohit,1455848038.0,['enhancement'],-1,1456374035.0
-9,closed,mandgerohit,1455847983.0,['help wanted'],-1,1456887060.0
-8,closed,rupajsoni,1455845990.0,[],-1,1455846000.0
-7,closed,mandgerohit,1455845846.0,['question'],-1,1456887040.0
-6,closed,adityamandhare,1455841738.0,"['enhancement', 'help wanted', 'question']",-1,1461651517.0
-5,closed,mandgerohit,1455840359.0,['question'],1456808400.0,1456892402.0
-4,closed,adityamandhare,1455840070.0,[],-1,1455840113.0
-3,closed,mandgerohit,1455840034.0,['help wanted'],-1,1461651526.0
-2,closed,rupajsoni,1455839252.0,[],-1,1455848442.0
-1,closed,DharmendraVaghela,1454301916.0,['question'],-1,1454357736.0
+57,Dharmendra,Add April deliverables,closed,DharmendraVaghela,1460078310.0,[],-1,1460078314.0
+56,Create a project report,Create a detailed project which reflects the findings of initial survey of Jan report and add details of iterative development to it,closed,adityamandhare,1460070940.0,[],-1,1461651311.0
+55,To analyze and compare the User feedback,Compare the results of User feedback 1 and User feedback 2 and make inferences,closed,adityamandhare,1459915437.0,"['enhancement', 'help wanted']",-1,1459997052.0
+54,Prepare a project presentation,To create ppt for the project1 April deliverable,closed,adityamandhare,1459915353.0,['enhancement'],-1,1461651316.0
+53,Changing the position of the sidebar,"Currently, the sidebar appears at the rightmost bottom of the page. Change the position to right center!",closed,rupajsoni,1459910794.0,['enhancement'],-1,1459988182.0
+52,Zoom in image when hover over panel,,closed,mandgerohit,1459910623.0,['enhancement'],-1,1461651418.0
+51,Updated on hover and on mouse away functionality,,closed,mandgerohit,1459910546.0,['enhancement'],-1,1461651411.0
+50,Modified the functionality of side bar panel on user suggestions,,closed,mandgerohit,1459910515.0,"['enhancement', 'help wanted']",-1,1461651437.0
+49,Hover extension- Image expands inline,"Currently, the image expands inline when the user hovers over it's reference. Instead, the image should pop up and not change the current layout of webpage",closed,rupajsoni,1459910381.0,['enhancement'],-1,1459988165.0
+48,Adjusting width of side panel,,closed,mandgerohit,1459910357.0,"['enhancement', 'help wanted']",-1,1461651379.0
+47,Image flickers when hovered over,,closed,rupajsoni,1459910157.0,['bug'],-1,1461651451.0
+46,Better matching of figures in the webpage,,closed,mandgerohit,1459636139.0,['enhancement'],-1,1459910331.0
+45,Auto-Logging in the cloud,,closed,mandgerohit,1459632194.0,['help wanted'],-1,1459997010.0
+44,Text adjustment during image hover,,closed,mandgerohit,1459632055.0,['bug'],-1,1459988165.0
+43,Log user information at remote server,"For analysis purpose, include user logs and enhance accordingly",closed,DharmendraVaghela,1459480667.0,"['bug', 'enhancement', 'question']",1460001600.0,1459997001.0
+42,Enhance sidebar plugin as per user suggestions,Update functionality of side image view,closed,DharmendraVaghela,1459480561.0,"['enhancement', 'help wanted', 'question']",1460001600.0,1459988165.0
+41,Update the CSS of webpage dynamically,,closed,mandgerohit,1459480014.0,['enhancement'],-1,1459632147.0
+40,Update the hover functionality for better viewing,,closed,mandgerohit,1459479988.0,['enhancement'],-1,1459632129.0
+39,Background event file include,Include background event file for constant listening,closed,DharmendraVaghela,1456892057.0,"['enhancement', 'help wanted', 'question']",-1,1456892088.0
+38,"Modify the code to get the references of all substrings of a text. For example, fig, figure, fig. etc.",,closed,mandgerohit,1456887156.0,['enhancement'],-1,1459632105.0
+37,Create a log file ,create and maintain logs for telemetry,closed,adityamandhare,1456875628.0,['help wanted'],-1,1456884237.0
+36,Dharmendra,"Include prototype and jquery.
+Include content script.",closed,DharmendraVaghela,1456858165.0,"['enhancement', 'help wanted', 'question']",-1,1456858182.0
+35,Merge pull request #34 from DharmendraVaghela/master,Merge pull request #33 from DharmendraVaghela/dharmendra,closed,DharmendraVaghela,1456818180.0,"['enhancement', 'help wanted', 'question']",-1,1456818215.0
+34,Merge pull request #33 from DharmendraVaghela/dharmendra,Merge pull request #32 from DharmendraVaghela/master,closed,DharmendraVaghela,1456817923.0,[],-1,1456817927.0
+33,Merge pull request #32 from DharmendraVaghela/master,Prototype.js and jquery.js,closed,DharmendraVaghela,1456817845.0,[],-1,1456817849.0
+32,Prototype.js and jquery.js,Standard code library for javascript,closed,DharmendraVaghela,1456817638.0,['enhancement'],-1,1456818104.0
+31,Image_SideBar Manifest,Include manifest file for image sidebar extension,closed,DharmendraVaghela,1456817142.0,[],-1,1456817148.0
+30,Merge remote-tracking branch 'refs/remotes/origin/master' into dharme…,Image SideBar manifest,closed,DharmendraVaghela,1456814199.0,[],-1,1456814218.0
+29,Implemented hover over functionality,,closed,mandgerohit,1456780972.0,['enhancement'],-1,1461651482.0
+28,Merge script at source page,Merging the script with the html file for the source code to infuse a side bar onto current webpage,closed,rupajsoni,1456780828.0,"['duplicate', 'enhancement']",-1,1461651467.0
+27,passing objects to functions in javascript,,closed,mandgerohit,1456778416.0,[],-1,1456780982.0
+26,Library inclusion for javascript,Include predefined functions for java script,closed,DharmendraVaghela,1456777708.0,"['duplicate', 'enhancement', 'question']",1456808400.0,1456892344.0
+25,Provide users choice for sidebar,Develop a platform for users to select type of images to be considered for sidebar,closed,DharmendraVaghela,1456777270.0,"['enhancement', 'help wanted', 'question']",1456808400.0,1459480602.0
+24,How to manage styles for plug in options,develop CSS for option that manages styles,closed,DharmendraVaghela,1456777178.0,['help wanted'],1456808400.0,1456892361.0
+23,Dharmendra,,closed,DharmendraVaghela,1456771021.0,[],-1,1456771030.0
+22,Dharmendra,Included options interface with choices and prototype files for java script,closed,DharmendraVaghela,1456767266.0,[],-1,1456767288.0
+21,Script for image collection,script containing code for image collection in sidebar,closed,DharmendraVaghela,1456700780.0,[],-1,1456700786.0
+20,Hover widget with image thumbnails,Creating a hovering widget for a web page and embed thumbnails of images on web page into it.,closed,adityamandhare,1456674626.0,['help wanted'],-1,1456884309.0
+19,Creating regular expression to mine HTML script,"In order search for ""src links"" and ""alt Text"" in the source code of the web page, a regular expression is required which needs to be figured out. The ""link"" will provide image URL and ""alt Text"" will provide image description.  ",closed,adityamandhare,1456674548.0,['help wanted'],-1,1456887013.0
+18,Javascript and background page,Incorporate new background page in the extension which will submit images and text to the main script,closed,DharmendraVaghela,1456638398.0,['help wanted'],1456808400.0,1456892384.0
+17,Image mapping,Find a way to map images to caption,closed,DharmendraVaghela,1456638307.0,['question'],1456808400.0,1456892390.0
+16,Icon and popup page add,Extention icon and popup page,closed,DharmendraVaghela,1456632772.0,[],-1,1456632777.0
+15,Extention 2,Finding all images and map them into hash function,closed,DharmendraVaghela,1456632426.0,[],-1,1456632449.0
+14,Find way to replace figure words by image URLs,,closed,mandgerohit,1456374113.0,"['help wanted', 'question']",-1,1461651503.0
+13,Explore other paltforms to develop solution for image problem,Explore the possibility for android application for hovering the image by airhover finctionality,closed,DharmendraVaghela,1455848688.0,[],1456808400.0,1456892396.0
+12,Find way to map images with text in web page,Extract text associated with an image and then map image with these keywords in the web page.,closed,adityamandhare,1455848551.0,['question'],-1,1456884492.0
+11,Find a way to insert image path within hyperlink,,closed,mandgerohit,1455848385.0,['help wanted'],-1,1456887091.0
+10,Find a regular expression to detect the figure captions in the web page,,closed,mandgerohit,1455848038.0,['enhancement'],-1,1456374035.0
+9,Create a plugin to detect the a specific word (number for example) in a webpage and make it a hyperlink,,closed,mandgerohit,1455847983.0,['help wanted'],-1,1456887060.0
+8,Sample code for Chrome extension,"To study how the extension works, we implemented a simple extension",closed,rupajsoni,1455845990.0,[],-1,1455846000.0
+7,Create a sample plugin to study chrome extension,,closed,mandgerohit,1455845846.0,['question'],-1,1456887040.0
+6,Environment Setup for Chrome Extension Development,"Visiting website and getting started with development of extensions.
+Date: 02/08/2016",closed,adityamandhare,1455841738.0,"['enhancement', 'help wanted', 'question']",-1,1461651517.0
+5,Study: Building a Chrome Extension,Studying how to build a chrome extension,closed,mandgerohit,1455840359.0,['question'],1456808400.0,1456892402.0
+4,Create a project implementation schedule and divide tasks,Create a schedule to adhere to for coding the proposed solutions. Also assign tasks to each team member.,closed,adityamandhare,1455840070.0,[],-1,1455840113.0
+3,Task: Finding ways to implement the given solutions,We are finding different ways to implement the given solutions in a Mozilla browser.,closed,mandgerohit,1455840034.0,['help wanted'],-1,1461651526.0
+2,Mozilla plugin study,Learn and the understand the mozilla Add-on SDK,closed,rupajsoni,1455839252.0,[],-1,1455848442.0
+1,Gathering interview information,Create google form and maintain interview questions and responses,closed,DharmendraVaghela,1454301916.0,['question'],-1,1454357736.0
