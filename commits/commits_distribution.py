@@ -51,7 +51,7 @@ def plot_graph(week,file_name):
   plt.bar(range(len(week)),week,width=0.50, align='center')
   plt.ylabel('No. of Commits')
   plt.xlabel('Weeks')
-  plt.savefig(os.path.splitext(file_name)[0]+'.png')
+  plt.savefig(os.path.splitext(file_name)[0]+'_weekly_commit_distribution.png')
   plt.clf()
 
 def get_commit_distribution(file_name):
