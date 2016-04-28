@@ -27,6 +27,18 @@ def secs(d0):
   delta = d - epoch
   return delta.total_seconds()
 
+def plot_graph(creators,week,file_name):
+  plt.bar(range(len(creators)), week, width=0.50, align='center', color = 'rgbymck')
+  plt.xticks(range(len(creators)), creators)
+  plt.ylabel('No. of Commits')
+  plt.xlabel('Users')
+  locs, creators = plt.xticks()
+  plt.setp(creators, rotation=30)
+  plt.tick_params(axis='both', which='minor', labelsize=5)
+  plt.tick_params(axis='both', which='major', labelsize=5)
+  plt.savefig(os.path.splitext(file_name)[0]+'_personal_commit_distribution'+'.png')
+  plt.clf()
+
 def get_commit_rate(file_name):
   csvfile = file(file_name,'rb')
   reader = csv.reader(csvfile)
@@ -44,13 +56,17 @@ def get_commit_rate(file_name):
   name_list = list(names)
   
   personalCommit = []
+  commit_count = []
   for member in names:
+     count = 0
      x = []
      csvfile.seek(0)
      for line in reader:
         [user,email,commit_at,message] = line
         if email == member:
           x.append(int(float(commit_at)))
+          count += 1
+     commit_count.append(count)
      personalCommit.append(x)
 
   t = []
@@ -87,6 +103,8 @@ def get_commit_rate(file_name):
      f.write('\n')
      weeks.append(week)
      num += 1
+  print(name_list)
+  plot_graph(name_list, commit_count, file_name)
   csvfile.close()
 
 f = open('commit_summary.txt','w')

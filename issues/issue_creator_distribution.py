@@ -30,10 +30,10 @@ def secs(d0):
 def plot_graph(creators,count,file_name):
   plt.bar(range(len(creators)),count,width=0.50, align='center', color = 'rgbymc')
   plt.xticks(range(len(creators)), creators)
-  plt.ylabel('Labels')
-  plt.xlabel('Count')
+  plt.ylabel('Issues created')
+  plt.xlabel('Users')
   locs, creators = plt.xticks()
-  plt.setp(creators, rotation=45)
+  plt.setp(creators)
   plt.tick_params(axis='both', which='minor', labelsize=6)
   plt.tick_params(axis='both', which='major', labelsize=6)
   plt.savefig(os.path.splitext(file_name)[0]+'_issue_creator_distribution'+'.png')
