@@ -2,8 +2,9 @@ from __future__ import print_function
 import urllib2
 import json
 import re,datetime
-import sys
+import sys, os
 import csv
+import matplotlib.pyplot as plt
  
 class L():
   "Anonymous container"
@@ -26,6 +27,17 @@ def secs(d0):
   delta = d - epoch
   return delta.total_seconds()
 
+def plot_graph(creators,count,file_name):
+  plt.bar(range(len(creators)),count,width=0.50, align='center', color = 'rgbymc')
+  plt.xticks(range(len(creators)), creators)
+  plt.ylabel('Labels')
+  plt.xlabel('Count')
+  locs, creators = plt.xticks()
+  plt.setp(creators, rotation=45)
+  plt.tick_params(axis='both', which='minor', labelsize=6)
+  plt.tick_params(axis='both', which='major', labelsize=6)
+  plt.savefig(os.path.splitext(file_name)[0]+'_issue_creator_distribution'+'.png')
+  plt.clf()
 
 def get_issue_distribution(file_name):
   csvfile = file(file_name,'rb')
@@ -45,7 +57,9 @@ def get_issue_distribution(file_name):
         if creator == mm:
           count += 1
      dis.append(count)
+  print(list(creator_set))
   print(dis)
+  plot_graph(list(creator_set), dis, file_name)
   csvfile.close()
 
 get_issue_distribution('project1.csv')

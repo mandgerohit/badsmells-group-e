@@ -29,7 +29,7 @@ def secs(d0):
   return delta.total_seconds()
 
 def plot_graph(week,file_name):
-  plt.bar(range(len(week)),week,width=0.50, align='center')
+  plt.bar(range(len(week)),week,width=0.50, align='center', color = 'r')
   plt.ylabel('No. of Issues')
   plt.xlabel('Weeks')
   plt.savefig(os.path.splitext(file_name)[0]+'_weekly_issue_distribution'+'.png')
