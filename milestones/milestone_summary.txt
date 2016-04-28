@@ -1,0 +1,32 @@
+
+=========== # project1 MILESTONE DETAILS # ===========
+1:-16833
+Mozilla plugin study:-14
+Develop three chrome plugins:11
+Functionality to collect and store logs on Server:4
+Prepare a report for submission:1
+Make plugin available for download:15
+Modify solutions according to users specification:6
+
+=========== # project2 MILESTONE DETAILS # ===========
+fir:-16815
+Feb 1 Project proposal:10
+Head start:6
+Get Workable Code:3
+Test Workable Solutions:3
+March 1 Coding Coding Coding:39
+Design and Conduct Experiment:19
+Solution Enhancement:8
+Apr1 Project:70
+
+=========== # project3 MILESTONE DETAILS # ===========
+February 1 Deliverable:18
+Feb10:5
+Feb17:12
+Feb24:19
+Mar1 Deliverable:27
+Mar1 Demo:1
+User testing:21
+Apr 7 Report:62
+Apr 7 Presentation:29
+May1 Deliverable:86

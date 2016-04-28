@@ -1,35 +1,8 @@
-#  gitabel
-#  the world's smallest project management tool
-#  reports relabelling times in github (time in seconds since epoch)
-#  thanks to dr parnin
-#  todo:
-#    - ensure events sorted by time
-#    - add issue id
-#    - add person handle
-
-"""
-You will need to add your authorization token in the code.
-Here is how you do it.
-
-1) In terminal run the following command
-
-curl -i -u <your_username> -d '{"scopes": ["repo", "user"], "note": "OpenSciences"}' https://api.github.com/authorizations
-
-2) Enter ur password on prompt. You will get a JSON response. 
-In that response there will be a key called "token" . 
-Copy the value for that key and paste it on line marked "token" in the attached source code. 
-
-3) Run the python file. 
-
-     python gitable.py
-
-"""
- 
 from __future__ import print_function
 import urllib2
 import json
 import re,datetime
-import sys
+import sys, os
 import csv
  
 class L():
@@ -53,8 +26,6 @@ def secs(d0):
   delta = d - epoch
   return delta.total_seconds()
  
-
-
 def dump1(u, csvwriter):
   f = open("../token.info","r")
   token = f.readline().strip('\n')
@@ -113,7 +84,6 @@ a = csv.writer(b)
 launchDump(pf.readline().strip('\n'),a)
 print("===============END OF THE PROJECT3========================")
 b.close()
-
 
 pf.close()
  
