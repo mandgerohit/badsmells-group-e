@@ -34,8 +34,8 @@ def plot_graph(creators,week,file_name):
   plt.xlabel('Users')
   locs, creators = plt.xticks()
   plt.setp(creators, rotation=30)
-  plt.tick_params(axis='both', which='minor', labelsize=5)
-  plt.tick_params(axis='both', which='major', labelsize=5)
+  plt.tick_params(axis='both', which='minor', labelsize=8)
+  plt.tick_params(axis='both', which='major', labelsize=8)
   plt.savefig(os.path.splitext(file_name)[0]+'_personal_commit_distribution'+'.png')
   plt.clf()
 
@@ -52,9 +52,13 @@ def get_commit_rate(file_name):
   for line in reader:
      [user,email,commit_at,message] = line
      names.add(email)
-  print (names)
-  name_list = list(names)
+  #print (names)
+  name_list = []#list(names)
   
+  for i in range(len(names)):
+    u = "user"+str(i+1)
+    name_list.append(u)
+
   personalCommit = []
   commit_count = []
   for member in names:

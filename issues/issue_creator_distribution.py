@@ -34,8 +34,8 @@ def plot_graph(creators,count,file_name):
   plt.xlabel('Users')
   locs, creators = plt.xticks()
   plt.setp(creators)
-  plt.tick_params(axis='both', which='minor', labelsize=6)
-  plt.tick_params(axis='both', which='major', labelsize=6)
+  plt.tick_params(axis='both', which='minor', labelsize=8)
+  plt.tick_params(axis='both', which='major', labelsize=8)
   plt.savefig(os.path.splitext(file_name)[0]+'_issue_creator_distribution'+'.png')
   plt.clf()
 
@@ -48,6 +48,12 @@ def get_issue_distribution(file_name):
      [number,title,description,state,creator,create_at,labels,milestonedue,last_update] = line
      creator_set.add(creator)
 
+  creator_list = []
+  
+  for i in range(len(creator_set)):
+    u = "user"+str(i+1)
+    creator_list.append(u)
+  
   dis = []
   for mm in creator_set:
      count = 0
@@ -57,9 +63,9 @@ def get_issue_distribution(file_name):
         if creator == mm:
           count += 1
      dis.append(count)
-  print(list(creator_set))
+  print(creator_list)
   print(dis)
-  plot_graph(list(creator_set), dis, file_name)
+  plot_graph(creator_list, dis, file_name)
   csvfile.close()
 
 get_issue_distribution('project1.csv')
