@@ -46,6 +46,7 @@ def get_all_issues():
   not_milestones = []
   not_in_time = []
   not_description = []
+  not_commented = []
   while i <= 3:
   	  file_name = 'project'+str(i)+'.csv'
 	  csvfile = file(file_name,'rb')
@@ -63,8 +64,9 @@ def get_all_issues():
 	  count_not_milestones = 0
 	  count_not_in_time = 0
 	  count_not_description = 0
+	  count_not_commented = 0
 	  for line in reader:
-	    [number,title,description,state,creator,create_at,labels,milestonedue,last_update] = line
+	    [number,title,description,state,creator,create_at,labels,milestonedue,last_update,closed_at,comments] = line
 	    if state != 'closed':
 	      count_not_closed += 1
 	    if labels == '[]':
@@ -76,6 +78,9 @@ def get_all_issues():
 	    if int(float(milestonedue)) > 0 and int(float(last_update)) > int(float(milestonedue)):
 	      if state == 'closed':
 	        count_not_in_time += 1
+	    if comments == '-1':
+	      if state == 'closed':
+	        count_not_commented += 1
 
 	  txt = "ISSUES NOT CLOSED"
 	  print(txt)
@@ -111,6 +116,13 @@ def get_all_issues():
 	  not_description.append(count_not_description)
 	  f.write(txt + " : "+ str(count_not_description))
 	  f.write('\n')
+
+	  txt = "ISSUES CLOSED WITHOUT COMMENTS"
+	  print(txt)
+	  print(count_not_commented)
+	  not_commented.append(count_not_commented)
+	  f.write(txt + " : "+ str(count_not_commented))
+	  f.write('\n')
 	  
 	  csvfile.close()
 	  i += 1
@@ -122,6 +134,7 @@ def get_all_issues():
   plot_graph(projects,not_milestones,'issues_without_milestones')
   plot_graph(projects,not_in_time,'issues_overdue')
   plot_graph(projects,not_description,'issues_without_description')
+  plot_graph(projects,not_commented,'issues_closed_without_comments')
 
 f = open('issue_summary.txt','w')
 f.truncate()

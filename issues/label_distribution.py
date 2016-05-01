@@ -59,7 +59,7 @@ def get_label_distribution(file_name):
   t = []
   label_set = set([])
   for line in reader:
-    [number,title,description,state,creator,create_at,labels,milestonedue,last_update] = line
+    [number,title,description,state,creator,create_at,labels,milestonedue,last_update,closed_at,comments] = line
     for label in splits(labels):
         label_set.add(label)
 
@@ -69,7 +69,7 @@ def get_label_distribution(file_name):
      count = 0
      csvfile.seek(0)
      for line in reader:
-        [number,title,description,state,creator,create_at,labels,milestonedue,last_update] = line
+        [number,title,description,state,creator,create_at,labels,milestonedue,last_update,closed_at,comments] = line
         for ll in splits(labels):
              if ll == la:
                  count += 1

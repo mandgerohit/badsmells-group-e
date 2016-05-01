@@ -57,7 +57,17 @@ def dump1(u, csvwriter):
          closed_at = secs(event['closed_at'])
     else:
          closed_at = -1
-    csvwriter.writerows([[number,title.encode("utf-8"),description.encode("utf-8"),state,creator,create_at,labels,milestonedue,last_update]])
+    
+    uc = event['comments_url']
+    request = urllib2.Request(uc, headers={"Authorization" : "token "+token})
+    v = urllib2.urlopen(request).read()
+    w = json.loads(v)
+
+    if w:
+      comments = 'yes'
+    else:
+      comments = -1
+    csvwriter.writerows([[number,title.encode("utf-8"),description.encode("utf-8"),state,creator,create_at,labels,milestonedue,last_update,closed_at,comments]])
   return True
 
 def dump(u,csvwriter):
